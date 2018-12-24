@@ -1,0 +1,5 @@
+# Aliases for symbols, used by symbol_request().
+alias symbol:qca_set_bdaddr_rome btqca
+alias symbol:qca_uart_setup_rome btqca
+alias symbol:h4_recv_buf hci_uart
+alias symbol:br_netfilter_enable br_netfilter

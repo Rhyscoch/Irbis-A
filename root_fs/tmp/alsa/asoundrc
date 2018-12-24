@@ -1,0 +1,57 @@
+</tmp/alsa/dmixer.conf>
+</tmp/alsa/dmicarray.conf>
+
+defaults.pcm.rate_converter "samplerate"
+
+pcm.device_pdm{
+	type hw
+	card 0
+	device 2
+	rate 48000
+	channels 8 
+	format S32_LE
+}
+
+pcm.mv_audio {
+	type hw
+	card 0
+	device 0
+}
+
+pcm_slave.mv_rate {
+	pcm mv_audio
+	rate 44100
+}
+
+pcm.rate_convert {
+	type rate
+	slave mv_rate
+}
+
+pcm.asymed { 
+	type asym 
+	playback.pcm "dmixer" 
+	capture.pcm "hw:0,0" 
+} 
+
+pcm.softvol {
+    type softvol
+    slave.pcm "asymed"
+    control {
+        name "Master"
+        card 0
+    }
+    min_dB -60.0
+    max_dB 0.0
+    resolution 33 
+} 
+pcm.!default {
+        type plug
+        slave.pcm "softvol"
+} 
+
+ctl.dmixer {
+	type hw
+	card 0
+}
+

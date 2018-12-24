@@ -1,0 +1,39 @@
+#!/bin/sh
+
+if [ -f /etc/init.d/rc.modules ]; then
+        /etc/init.d/rc.modules
+fi
+
+#
+# launch dbus and set env
+#
+for i in `/usr/bin/dbus-launch | /bin/sed '/^#.*\|^$/d'`; do
+export $i
+done
+export QT_QPA_PLATFORM=linuxfb:fb=/dev/fb0
+export QT_QUICK_BACKEND=softwarecontex
+
+# Start all init scripts in /etc/init.d
+# executing them in numerical order.
+#
+for i in /etc/init.d/S??* ;do
+
+     # Ignore dangling symlinks (if any).
+     [ ! -f "$i" ] && continue
+
+     case "$i" in
+	*.sh)
+	    # Source shell script for speed.
+	    (
+		trap - INT QUIT TSTP
+		set start
+		. $i
+	    )
+	    ;;
+	*)
+	    # No sh extension, so fork subprocess.
+	    $i start
+	    ;;
+    esac
+done
+

@@ -1,0 +1,42 @@
+<X_BROADCOM_COM_BluetoothAdapter>
+  <bt_devices>
+    <device value = "0">
+      <bd_addr>00:1A:7D:DA:71:05:</bd_addr>
+      <device_name>DESKTOP-466PUAE</device_name>
+      <class_of_device>00:00:00:</class_of_device>
+      <link_key>F1:57:00:AB:9A:A0:9D:2B:75:D6:5B:7A:91:B9:A0:C2:</link_key>
+      <Link_key_present>1</Link_key_present>
+      <last_active>1</last_active>
+      <profile_type>0</profile_type>
+      <audio_path>0</audio_path>
+      <key_type>4</key_type>
+      <trusted_services>0x00000008</trusted_services>
+      <vid>0x0000</vid>
+      <pid>0x0000</pid>
+      <version>0x0000</version>
+      <features>00:00:00:00:00:00:00:00:</features>
+      <lmp_version>0</lmp_version>
+      <ble_addr_type>0</ble_addr_type>
+      <device_type>0</device_type>
+      <inq_result_type>0</inq_result_type>
+      <ble_Link_key_present>0</ble_Link_key_present>
+      <penc_ltk>00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:</penc_ltk>
+      <penc_rand>00:00:00:00:00:00:00:00:</penc_rand>
+      <penc_ediv>0</penc_ediv>
+      <penc_sec_level>0</penc_sec_level>
+      <penc_key_size>0</penc_key_size>
+      <prid_irk>00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:</prid_irk>
+      <prid_addr_type>0</prid_addr_type>
+      <prid_static_addr>00:00:00:00:00:00:</prid_static_addr>
+      <pcsrk_counter>0</pcsrk_counter>
+      <pcsrk_csrk>00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:</pcsrk_csrk>
+      <pcsrk_sec_level>0</pcsrk_sec_level>
+      <lcsrk_counter>0</lcsrk_counter>
+      <lcsrk_dis>0</lcsrk_dis>
+      <lcsrk_sec_level>0</lcsrk_sec_level>
+      <lenc_div>0</lenc_div>
+      <lenc_key_size>0</lenc_key_size>
+      <lenc_sec_level>0</lenc_sec_level>
+    </device>
+  </bt_devices>
+</X_BROADCOM_COM_BluetoothAdapter>

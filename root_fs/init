@@ -1,0 +1,201 @@
+#!/bin/sh
+#Mount things needed by this script
+/bin/mount -t sysfs sysfs /sys
+/bin/mount -t devtmpfs devtmpfs /dev
+/bin/mount -t proc proc /proc
+
+#Create device nodes
+mdev -s
+
+#Function for parsing command line options with "=" in them
+# get_opt("init=/sbin/init") will return "/sbin/init"
+get_opt() {
+    echo "$@" | cut -d "=" -f 2
+}
+
+
+#get system ubi number
+system_a_mtd_number=$(cat /proc/mtd | grep  -E "system_a" | awk -F : '{print $1}' | grep -o '[0-9]\+')
+system_b_mtd_number=$(cat /proc/mtd | grep  -E "system_b" | awk -F : '{print $1}' | grep -o '[0-9]\+')
+system_mtd_number=$(cat /proc/mtd | grep  -E "system" | awk -F : '{print $1}' | grep -o '[0-9]\+')
+if [ -z "${system_mtd_number}" ]; then
+system_mtd_number=$(cat /proc/mtd | grep  -E "upgrade" | awk -F : '{print $1}' | grep -o '[0-9]\+')
+fi
+
+#Defaults
+slot_suffix="_a"
+init="/sbin/init"
+root="/dev/cardblksd1"
+root_ab="/dev/cardblksd1"
+firmware=""
+rootfstype=
+system_partition_name="system"
+#Process command line options
+for i in $(cat /proc/cmdline); do
+    case $i in
+        root\=*)
+            root=$(get_opt $i)
+            ;;
+        firmware\=*)
+            firmware=$(get_opt $i)
+            ;;
+        rootfstype\=*)
+            rootfstype=$(get_opt $i)
+            ;;
+        init\=*)
+            init=$(get_opt $i)
+            ;;
+        slot_suffix\=*)
+            slot_suffix=$(get_opt $i)
+            ;;
+	system_partition_name\=*)
+            system_partition_name=$(get_opt $i)
+            ;;
+    esac
+done
+
+get_ubi_rootfs() {
+    if [ "${system_partition_name}" = "upgrade" ]; then
+    echo `awk '
+    BEGIN{
+       mtd = -1
+    }
+    /"upgrade"/ {mtd = $1; len = length(mtd); mtd=substr(mtd, 4, len - 4);
+    }
+    END{
+        if (mtd != -1) print "/dev/mtd"mtd
+    }' /proc/mtd`
+    else
+    echo `awk '
+    BEGIN{
+       mtd = -1
+    }
+    /"system"/ {mtd = $1; len = length(mtd); mtd=substr(mtd, 4, len - 4);
+    }
+    END{
+        if (mtd != -1) print "/dev/mtd"mtd
+    }' /proc/mtd`
+    fi
+}
+
+#Mount the root device
+#Waiting for device to become ready
+i=1
+while [ "$i" -le 10 ]
+do
+    if [ "${rootfstype}" = "ubifs" ]; then
+        root=$(get_ubi_rootfs)
+        if [ -c "${root}" ]; then
+            echo "${root} is ready now."
+            break
+        fi
+    else
+        if [ -b "${root}" ]; then
+            echo "${root} is ready now."
+            break
+        fi
+    fi
+    echo "${root} is not ready.  Waited for ${i} second"
+    sleep 1
+    i=$((i+1))
+done
+
+if [ "$i" -eq 11 ]; then
+    if [ "${rootfstype}" = "ubifs" ]; then
+        echo "try to mount system a/b!"
+        if [ ${slot_suffix} = "_a" ]; then
+            system_mtd_number=${system_a_mtd_number}
+        else
+            system_mtd_number=${system_b_mtd_number}
+        fi
+    else
+        echo "try to mount system a/b!"
+        root_ab=${root}${slot_suffix}
+        if [ -b "${root_ab}" ]; then
+            echo "${root_ab} is ready now."
+            root=${root_ab}
+        fi
+    fi
+fi
+
+if [ "${rootfstype}" = "ubifs" ]; then
+    echo "#[ubiattach /dev/ubi_ctrl -m ${system_mtd_number}]"
+    ubiattach /dev/ubi_ctrl -m ${system_mtd_number}
+    echo "#[ mount -t ubifs /dev/ubi0_0 /mnt ]"
+    mount -t ${rootfstype} /dev/ubi0_0  /mnt
+elif [ "${rootfstype}" != "" ]; then
+    mount -t ${rootfstype} "${root}" /mnt
+else
+    mount "${root}" /mnt
+fi
+
+get_boot() {
+    echo `awk '
+    BEGIN{
+       mtd = -1
+    }
+    /"boot"/ {mtd = $1; len = length(mtd); mtd=substr(mtd, 4, len - 4); 
+    } 
+    END{
+        if (mtd != -1) print "/dev/mtdblock"mtd
+    }' /proc/mtd`
+}
+
+if [ -n "${firmware}" ]; then
+    if [ -f "/mnt/${firmware}" ] ; then
+        echo "formating file system"
+		export LD_LIBRARY_PATH=/usr/lib
+        mkfs.ext4 -F /dev/system
+        mkdir -p system
+        mount -t ext4 /dev/system /system
+        echo "extracting file system ..."
+        gunzip -c /mnt/rootfs.tar.gz  | tar -xf - -C /system
+        if [ $? -ne 0 ]; then
+           echo "Error: untar failed."
+        else
+           echo "Done"
+        fi
+        device=$(get_boot)
+        if [ "$device" == "" ]; then
+            device=/dev/boot
+        fi
+        if [ -f "/mnt/boot.img" ]; then
+           echo "Writing boot.img into boot partition(${device})..."
+           dd if=/mnt/boot.img of=${device}
+           echo "Done"
+        elif [ -f "/mnt/uImage" ]; then
+           echo "Writing uImage into boot partition(${device})..."
+           dd if=/mnt/uImage of=${device}
+           echo "Done"
+        fi
+        sync
+        echo "update complete"
+        umount /sys /proc /dev
+        #Switch to the new root and execute init
+        /bin/mount -t devtmpfs devtmpfs /system/dev
+        exec 0</system/dev/console
+        exec 1>/system/dev/console
+        exec 2>/system/dev/console
+        exec switch_root -c /dev/console /system "${init}"
+    else
+        echo "cannot locate ${firmware}"
+        echo "boot normally..."
+    fi
+fi
+#Check if $init exists and is executable
+if [[ -x "/mnt/${init}" ]] ; then
+    #Unmount all other mounts so that the ram used by
+    #the initramfs can be cleared after switch_root
+    umount /sys /proc /dev
+
+    #Switch to the new root and execute init
+    /bin/mount -t devtmpfs devtmpfs /mnt/dev
+    exec 0</mnt/dev/console
+    exec 1>/mnt/dev/console
+    exec 2>/mnt/dev/console
+    exec switch_root -c /dev/console /mnt "${init}"
+fi
+
+#This will only be run if the exec above failed
+echo "Failed to switch root, dropping to a shell"
+exec /sbin/init

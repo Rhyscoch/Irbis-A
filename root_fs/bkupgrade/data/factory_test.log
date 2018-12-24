@@ -1,0 +1,23 @@
+[01/Jan/2015:00:00:18 +0000] boa: server version Boa/0.94.13
+[01/Jan/2015:00:00:18 +0000] boa: server built Oct 30 2018 at 10:34:37.
+[01/Jan/2015:00:00:18 +0000] boa: starting server pid=1507, port 80
+killall: udhcpd: no process killed
+dhd_priv: Version = 1.1
+argv: dhd_priv iapsta_init mode gosta 
+dhd_priv: buf = , len = 0, ret = 0
+route: SIOCDELRT: No such process
+dhd_priv: Version = 1.1
+argv: dhd_priv iapsta_config ifname wlan1 ssid a98_ssid chan 6 amode open emode none 
+dhd_priv: -nanailed to issue private commands -593948
+dhd_priv: Version = 1.1
+argv: dhd_priv iapsta_enable ifname wlan1 
+dhd_priv: buf = , len = 0, ret = 0
+wiimu_CGI_do_cmd: 192.168.5.12 command=getDebugInfo ++++++++ 
+wiimu_CGI_do_cmd: 192.168.5.12 command=getStatusEx ++++++++ 
+wiimu_CGI_do_cmd: 192.168.5.12 command=FF98F010786658ADE774043D1:3030 ++++++++ 
+wiimu_CGI_do_cmd: 192.168.5.12 command=FF98F0108E22724846F8520E1:3030 ++++++++ 
+create_temporary_file /tmp/boa-temp.XXXXXX 
+read.c:355 - command=getFactoryHobotID
+wiimu_CGI_do_cmd: 192.168.5.12 command=getFactoryHobotID ++++++++ 
+wiimu_CGI_do_cmd: 192.168.5.12 command=factory_test_disable ++++++++ 
+[00:01:18.012] FactoryTest recv:factory_test_disable ++++ 

@@ -1,0 +1,1140 @@
+Dec 20 09:51:01 A98SmartAudio_AA00 daemon.info : starting pid 1634, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:02 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1634) exited. Scheduling for restart.
+Dec 20 09:51:02 A98SmartAudio_AA00 daemon.info : starting pid 1637, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:03 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1637) exited. Scheduling for restart.
+Dec 20 09:51:03 A98SmartAudio_AA00 daemon.info : starting pid 1641, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:04 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1641) exited. Scheduling for restart.
+Dec 20 09:51:04 A98SmartAudio_AA00 daemon.info : starting pid 1643, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:05 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1643) exited. Scheduling for restart.
+Dec 20 09:51:05 A98SmartAudio_AA00 daemon.info : starting pid 1645, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:06 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1645) exited. Scheduling for restart.
+Dec 20 09:51:06 A98SmartAudio_AA00 daemon.info : starting pid 1647, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:07 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1647) exited. Scheduling for restart.
+Dec 20 09:51:07 A98SmartAudio_AA00 daemon.info : starting pid 1649, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:08 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1649) exited. Scheduling for restart.
+Dec 20 09:51:08 A98SmartAudio_AA00 daemon.info : starting pid 1651, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:09 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1651) exited. Scheduling for restart.
+Dec 20 09:51:09 A98SmartAudio_AA00 daemon.info : starting pid 1653, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:10 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1653) exited. Scheduling for restart.
+Dec 20 09:51:10 A98SmartAudio_AA00 daemon.info : starting pid 1655, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:11 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1655) exited. Scheduling for restart.
+Dec 20 09:51:11 A98SmartAudio_AA00 daemon.info : starting pid 1657, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:12 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1657) exited. Scheduling for restart.
+Dec 20 09:51:12 A98SmartAudio_AA00 daemon.info : starting pid 1659, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:13 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1659) exited. Scheduling for restart.
+Dec 20 09:51:13 A98SmartAudio_AA00 daemon.info : starting pid 1661, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:14 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1661) exited. Scheduling for restart.
+Dec 20 09:51:14 A98SmartAudio_AA00 daemon.info : starting pid 1666, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:15 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1666) exited. Scheduling for restart.
+Dec 20 09:51:15 A98SmartAudio_AA00 daemon.info : starting pid 1668, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:16 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1668) exited. Scheduling for restart.
+Dec 20 09:51:16 A98SmartAudio_AA00 daemon.info : starting pid 1670, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:17 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1670) exited. Scheduling for restart.
+Dec 20 09:51:17 A98SmartAudio_AA00 daemon.info : starting pid 1672, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:18 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1672) exited. Scheduling for restart.
+Dec 20 09:51:18 A98SmartAudio_AA00 daemon.info : starting pid 1674, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:19 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1674) exited. Scheduling for restart.
+Dec 20 09:51:19 A98SmartAudio_AA00 daemon.info : starting pid 1676, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:20 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1676) exited. Scheduling for restart.
+Dec 20 09:51:20 A98SmartAudio_AA00 daemon.info : starting pid 1678, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:21 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1678) exited. Scheduling for restart.
+Dec 20 09:51:21 A98SmartAudio_AA00 daemon.info : starting pid 1680, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:22 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1680) exited. Scheduling for restart.
+Dec 20 09:51:22 A98SmartAudio_AA00 daemon.info : starting pid 1682, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:23 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1682) exited. Scheduling for restart.
+Dec 20 09:51:23 A98SmartAudio_AA00 daemon.info : starting pid 1684, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:24 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1684) exited. Scheduling for restart.
+Dec 20 09:51:24 A98SmartAudio_AA00 daemon.info : starting pid 1686, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:25 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1686) exited. Scheduling for restart.
+Dec 20 09:51:25 A98SmartAudio_AA00 daemon.info : starting pid 1688, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:26 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1688) exited. Scheduling for restart.
+Dec 20 09:51:26 A98SmartAudio_AA00 daemon.info : starting pid 1690, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:27 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1690) exited. Scheduling for restart.
+Dec 20 09:51:27 A98SmartAudio_AA00 daemon.info : starting pid 1692, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:28 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1692) exited. Scheduling for restart.
+Dec 20 09:51:28 A98SmartAudio_AA00 daemon.info : starting pid 1694, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:29 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1694) exited. Scheduling for restart.
+Dec 20 09:51:29 A98SmartAudio_AA00 daemon.info : starting pid 1697, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:30 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1697) exited. Scheduling for restart.
+Dec 20 09:51:30 A98SmartAudio_AA00 daemon.info : starting pid 1701, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:31 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1701) exited. Scheduling for restart.
+Dec 20 09:51:31 A98SmartAudio_AA00 daemon.info : starting pid 1703, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:32 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1703) exited. Scheduling for restart.
+Dec 20 09:51:32 A98SmartAudio_AA00 daemon.info : starting pid 1705, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:33 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1705) exited. Scheduling for restart.
+Dec 20 09:51:33 A98SmartAudio_AA00 daemon.info : starting pid 1707, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:34 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1707) exited. Scheduling for restart.
+Dec 20 09:51:34 A98SmartAudio_AA00 daemon.info : starting pid 1709, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:35 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1709) exited. Scheduling for restart.
+Dec 20 09:51:35 A98SmartAudio_AA00 daemon.info : starting pid 1711, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:36 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1711) exited. Scheduling for restart.
+Dec 20 09:51:36 A98SmartAudio_AA00 daemon.info : starting pid 1713, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:37 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1713) exited. Scheduling for restart.
+Dec 20 09:51:37 A98SmartAudio_AA00 daemon.info : starting pid 1715, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:38 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1715) exited. Scheduling for restart.
+Dec 20 09:51:38 A98SmartAudio_AA00 daemon.info : starting pid 1717, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:39 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1717) exited. Scheduling for restart.
+Dec 20 09:51:39 A98SmartAudio_AA00 daemon.info : starting pid 1719, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:40 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1719) exited. Scheduling for restart.
+Dec 20 09:51:40 A98SmartAudio_AA00 daemon.info : starting pid 1721, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:41 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1721) exited. Scheduling for restart.
+Dec 20 09:51:41 A98SmartAudio_AA00 daemon.info : starting pid 1723, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:42 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1723) exited. Scheduling for restart.
+Dec 20 09:51:42 A98SmartAudio_AA00 daemon.info : starting pid 1725, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:43 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1725) exited. Scheduling for restart.
+Dec 20 09:51:43 A98SmartAudio_AA00 daemon.info : starting pid 1727, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:44 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1727) exited. Scheduling for restart.
+Dec 20 09:51:44 A98SmartAudio_AA00 daemon.info : starting pid 1729, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:45 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1729) exited. Scheduling for restart.
+Dec 20 09:51:45 A98SmartAudio_AA00 daemon.info : starting pid 1732, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:46 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1732) exited. Scheduling for restart.
+Dec 20 09:51:46 A98SmartAudio_AA00 daemon.info : starting pid 1734, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:47 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1734) exited. Scheduling for restart.
+Dec 20 09:51:47 A98SmartAudio_AA00 daemon.info : starting pid 1738, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:48 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1738) exited. Scheduling for restart.
+Dec 20 09:51:48 A98SmartAudio_AA00 daemon.info : starting pid 1740, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:49 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1740) exited. Scheduling for restart.
+Dec 20 09:51:49 A98SmartAudio_AA00 daemon.info : starting pid 1742, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:50 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1742) exited. Scheduling for restart.
+Dec 20 09:51:50 A98SmartAudio_AA00 daemon.info : starting pid 1744, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:51 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1744) exited. Scheduling for restart.
+Dec 20 09:51:51 A98SmartAudio_AA00 daemon.info : starting pid 1746, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:52 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1746) exited. Scheduling for restart.
+Dec 20 09:51:52 A98SmartAudio_AA00 daemon.info : starting pid 1748, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:53 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1748) exited. Scheduling for restart.
+Dec 20 09:51:53 A98SmartAudio_AA00 daemon.info : starting pid 1750, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:54 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1750) exited. Scheduling for restart.
+Dec 20 09:51:54 A98SmartAudio_AA00 daemon.info : starting pid 1752, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:55 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1752) exited. Scheduling for restart.
+Dec 20 09:51:55 A98SmartAudio_AA00 daemon.info : starting pid 1754, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:56 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1754) exited. Scheduling for restart.
+Dec 20 09:51:56 A98SmartAudio_AA00 daemon.info : starting pid 1756, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:57 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1756) exited. Scheduling for restart.
+Dec 20 09:51:57 A98SmartAudio_AA00 daemon.info : starting pid 1758, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:58 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1758) exited. Scheduling for restart.
+Dec 20 09:51:58 A98SmartAudio_AA00 daemon.info : starting pid 1760, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:51:59 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1760) exited. Scheduling for restart.
+Dec 20 09:51:59 A98SmartAudio_AA00 daemon.info : starting pid 1762, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:00 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1762) exited. Scheduling for restart.
+Dec 20 09:52:00 A98SmartAudio_AA00 daemon.info : starting pid 1764, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:01 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1764) exited. Scheduling for restart.
+Dec 20 09:52:01 A98SmartAudio_AA00 daemon.info : starting pid 1766, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:02 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1766) exited. Scheduling for restart.
+Dec 20 09:52:03 A98SmartAudio_AA00 daemon.info : starting pid 1769, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:04 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1769) exited. Scheduling for restart.
+Dec 20 09:52:04 A98SmartAudio_AA00 daemon.info : starting pid 1771, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:05 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1771) exited. Scheduling for restart.
+Dec 20 09:52:05 A98SmartAudio_AA00 daemon.info : starting pid 1773, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:06 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1773) exited. Scheduling for restart.
+Dec 20 09:52:06 A98SmartAudio_AA00 daemon.info : starting pid 1777, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:07 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1777) exited. Scheduling for restart.
+Dec 20 09:52:07 A98SmartAudio_AA00 daemon.info : starting pid 1779, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:08 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1779) exited. Scheduling for restart.
+Dec 20 09:52:08 A98SmartAudio_AA00 daemon.info : starting pid 1781, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:09 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1781) exited. Scheduling for restart.
+Dec 20 09:52:09 A98SmartAudio_AA00 daemon.info : starting pid 1783, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:10 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1783) exited. Scheduling for restart.
+Dec 20 09:52:10 A98SmartAudio_AA00 daemon.info : starting pid 1785, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:11 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1785) exited. Scheduling for restart.
+Dec 20 09:52:11 A98SmartAudio_AA00 daemon.info : starting pid 1787, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:12 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1787) exited. Scheduling for restart.
+Dec 20 09:52:12 A98SmartAudio_AA00 daemon.info : starting pid 1789, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:13 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1789) exited. Scheduling for restart.
+Dec 20 09:52:13 A98SmartAudio_AA00 daemon.info : starting pid 1791, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:14 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1791) exited. Scheduling for restart.
+Dec 20 09:52:14 A98SmartAudio_AA00 daemon.info : starting pid 1793, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:15 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1793) exited. Scheduling for restart.
+Dec 20 09:52:15 A98SmartAudio_AA00 daemon.info : starting pid 1795, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:16 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1795) exited. Scheduling for restart.
+Dec 20 09:52:16 A98SmartAudio_AA00 daemon.info : starting pid 1797, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:17 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1797) exited. Scheduling for restart.
+Dec 20 09:52:17 A98SmartAudio_AA00 daemon.info : starting pid 1799, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:18 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1799) exited. Scheduling for restart.
+Dec 20 09:52:18 A98SmartAudio_AA00 daemon.info : starting pid 1801, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:19 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1801) exited. Scheduling for restart.
+Dec 20 09:52:19 A98SmartAudio_AA00 daemon.info : starting pid 1803, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:20 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1803) exited. Scheduling for restart.
+Dec 20 09:52:20 A98SmartAudio_AA00 daemon.info : starting pid 1805, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:21 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1805) exited. Scheduling for restart.
+Dec 20 09:52:21 A98SmartAudio_AA00 daemon.info : starting pid 1808, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:22 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1808) exited. Scheduling for restart.
+Dec 20 09:52:22 A98SmartAudio_AA00 daemon.info : starting pid 1810, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:23 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1810) exited. Scheduling for restart.
+Dec 20 09:52:23 A98SmartAudio_AA00 daemon.info : starting pid 1814, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:24 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1814) exited. Scheduling for restart.
+Dec 20 09:52:24 A98SmartAudio_AA00 daemon.info : starting pid 1816, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:25 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1816) exited. Scheduling for restart.
+Dec 20 09:52:25 A98SmartAudio_AA00 daemon.info : starting pid 1818, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:26 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1818) exited. Scheduling for restart.
+Dec 20 09:52:26 A98SmartAudio_AA00 daemon.info : starting pid 1820, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:27 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1820) exited. Scheduling for restart.
+Dec 20 09:52:27 A98SmartAudio_AA00 daemon.info : starting pid 1822, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:28 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1822) exited. Scheduling for restart.
+Dec 20 09:52:28 A98SmartAudio_AA00 daemon.info : starting pid 1824, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:29 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1824) exited. Scheduling for restart.
+Dec 20 09:52:29 A98SmartAudio_AA00 daemon.info : starting pid 1826, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:30 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1826) exited. Scheduling for restart.
+Dec 20 09:52:30 A98SmartAudio_AA00 daemon.info : starting pid 1828, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:31 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1828) exited. Scheduling for restart.
+Dec 20 09:52:31 A98SmartAudio_AA00 daemon.info : starting pid 1830, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:32 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1830) exited. Scheduling for restart.
+Dec 20 09:52:32 A98SmartAudio_AA00 daemon.info : starting pid 1832, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:33 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1832) exited. Scheduling for restart.
+Dec 20 09:52:33 A98SmartAudio_AA00 daemon.info : starting pid 1834, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:34 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1834) exited. Scheduling for restart.
+Dec 20 09:52:34 A98SmartAudio_AA00 daemon.info : starting pid 1836, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:35 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1836) exited. Scheduling for restart.
+Dec 20 09:52:35 A98SmartAudio_AA00 daemon.info : starting pid 1838, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:36 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1838) exited. Scheduling for restart.
+Dec 20 09:52:36 A98SmartAudio_AA00 daemon.info : starting pid 1840, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:37 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1840) exited. Scheduling for restart.
+Dec 20 09:52:37 A98SmartAudio_AA00 daemon.info : starting pid 1842, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:38 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1842) exited. Scheduling for restart.
+Dec 20 09:52:38 A98SmartAudio_AA00 daemon.info : starting pid 1845, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:39 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1845) exited. Scheduling for restart.
+Dec 20 09:52:39 A98SmartAudio_AA00 daemon.info : starting pid 1847, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:40 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1847) exited. Scheduling for restart.
+Dec 20 09:52:40 A98SmartAudio_AA00 daemon.info : starting pid 1849, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:41 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1849) exited. Scheduling for restart.
+Dec 20 09:52:41 A98SmartAudio_AA00 daemon.info : starting pid 1853, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:42 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1853) exited. Scheduling for restart.
+Dec 20 09:52:42 A98SmartAudio_AA00 daemon.info : starting pid 1855, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:43 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1855) exited. Scheduling for restart.
+Dec 20 09:52:43 A98SmartAudio_AA00 daemon.info : starting pid 1857, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:44 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1857) exited. Scheduling for restart.
+Dec 20 09:52:44 A98SmartAudio_AA00 daemon.info : starting pid 1859, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:45 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1859) exited. Scheduling for restart.
+Dec 20 09:52:45 A98SmartAudio_AA00 daemon.info : starting pid 1861, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:46 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1861) exited. Scheduling for restart.
+Dec 20 09:52:46 A98SmartAudio_AA00 daemon.info : starting pid 1863, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:47 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1863) exited. Scheduling for restart.
+Dec 20 09:52:47 A98SmartAudio_AA00 daemon.info : starting pid 1865, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:48 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1865) exited. Scheduling for restart.
+Dec 20 09:52:48 A98SmartAudio_AA00 daemon.info : starting pid 1867, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:49 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1867) exited. Scheduling for restart.
+Dec 20 09:52:49 A98SmartAudio_AA00 daemon.info : starting pid 1869, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:50 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1869) exited. Scheduling for restart.
+Dec 20 09:52:50 A98SmartAudio_AA00 daemon.info : starting pid 1871, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:51 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1871) exited. Scheduling for restart.
+Dec 20 09:52:51 A98SmartAudio_AA00 daemon.info : starting pid 1873, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:52 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1873) exited. Scheduling for restart.
+Dec 20 09:52:52 A98SmartAudio_AA00 daemon.info : starting pid 1875, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:53 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1875) exited. Scheduling for restart.
+Dec 20 09:52:53 A98SmartAudio_AA00 daemon.info : starting pid 1877, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:54 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1877) exited. Scheduling for restart.
+Dec 20 09:52:54 A98SmartAudio_AA00 daemon.info : starting pid 1879, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:55 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1879) exited. Scheduling for restart.
+Dec 20 09:52:55 A98SmartAudio_AA00 daemon.info : starting pid 1881, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:56 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1881) exited. Scheduling for restart.
+Dec 20 09:52:56 A98SmartAudio_AA00 daemon.info : starting pid 1884, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:57 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1884) exited. Scheduling for restart.
+Dec 20 09:52:57 A98SmartAudio_AA00 daemon.info : starting pid 1886, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:58 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1886) exited. Scheduling for restart.
+Dec 20 09:52:58 A98SmartAudio_AA00 daemon.info : starting pid 1890, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:52:59 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1890) exited. Scheduling for restart.
+Dec 20 09:52:59 A98SmartAudio_AA00 daemon.info : starting pid 1892, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:00 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1892) exited. Scheduling for restart.
+Dec 20 09:53:00 A98SmartAudio_AA00 daemon.info : starting pid 1894, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:01 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1894) exited. Scheduling for restart.
+Dec 20 09:53:01 A98SmartAudio_AA00 daemon.info : starting pid 1896, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:02 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1896) exited. Scheduling for restart.
+Dec 20 09:53:02 A98SmartAudio_AA00 daemon.info : starting pid 1898, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:03 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1898) exited. Scheduling for restart.
+Dec 20 09:53:03 A98SmartAudio_AA00 daemon.info : starting pid 1900, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:04 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1900) exited. Scheduling for restart.
+Dec 20 09:53:04 A98SmartAudio_AA00 daemon.info : starting pid 1902, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:05 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1902) exited. Scheduling for restart.
+Dec 20 09:53:05 A98SmartAudio_AA00 daemon.info : starting pid 1904, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:06 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1904) exited. Scheduling for restart.
+Dec 20 09:53:06 A98SmartAudio_AA00 daemon.info : starting pid 1906, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:07 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1906) exited. Scheduling for restart.
+Dec 20 09:53:07 A98SmartAudio_AA00 daemon.info : starting pid 1908, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:08 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1908) exited. Scheduling for restart.
+Dec 20 09:53:08 A98SmartAudio_AA00 daemon.info : starting pid 1910, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:09 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1910) exited. Scheduling for restart.
+Dec 20 09:53:09 A98SmartAudio_AA00 daemon.info : starting pid 1912, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:10 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1912) exited. Scheduling for restart.
+Dec 20 09:53:10 A98SmartAudio_AA00 daemon.info : starting pid 1914, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:11 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1914) exited. Scheduling for restart.
+Dec 20 09:53:11 A98SmartAudio_AA00 daemon.info : starting pid 1916, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:12 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1916) exited. Scheduling for restart.
+Dec 20 09:53:12 A98SmartAudio_AA00 daemon.info : starting pid 1918, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:13 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1918) exited. Scheduling for restart.
+Dec 20 09:53:13 A98SmartAudio_AA00 daemon.info : starting pid 1921, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:14 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1921) exited. Scheduling for restart.
+Dec 20 09:53:14 A98SmartAudio_AA00 daemon.info : starting pid 1923, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:15 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1923) exited. Scheduling for restart.
+Dec 20 09:53:15 A98SmartAudio_AA00 daemon.info : starting pid 1926, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:16 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1926) exited. Scheduling for restart.
+Dec 20 09:53:16 A98SmartAudio_AA00 daemon.info : starting pid 1929, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:17 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1929) exited. Scheduling for restart.
+Dec 20 09:53:17 A98SmartAudio_AA00 daemon.info : starting pid 1931, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:18 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1931) exited. Scheduling for restart.
+Dec 20 09:53:18 A98SmartAudio_AA00 daemon.info : starting pid 1933, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:19 A98SmartAudio_AA00 auth.info sshd[1935]: Accepted none for root from 192.168.0.115 port 49291 ssh2
+Dec 20 09:53:19 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1933) exited. Scheduling for restart.
+Dec 20 09:53:19 A98SmartAudio_AA00 daemon.info : starting pid 1985, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:20 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1985) exited. Scheduling for restart.
+Dec 20 09:53:20 A98SmartAudio_AA00 daemon.info : starting pid 1996, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:21 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1996) exited. Scheduling for restart.
+Dec 20 09:53:21 A98SmartAudio_AA00 daemon.info : starting pid 1998, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:22 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 1998) exited. Scheduling for restart.
+Dec 20 09:53:22 A98SmartAudio_AA00 daemon.info : starting pid 2000, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:23 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2000) exited. Scheduling for restart.
+Dec 20 09:53:23 A98SmartAudio_AA00 daemon.info : starting pid 2002, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:24 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2002) exited. Scheduling for restart.
+Dec 20 09:53:24 A98SmartAudio_AA00 daemon.info : starting pid 2004, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:25 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2004) exited. Scheduling for restart.
+Dec 20 09:53:25 A98SmartAudio_AA00 daemon.info : starting pid 2006, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:26 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2006) exited. Scheduling for restart.
+Dec 20 09:53:26 A98SmartAudio_AA00 daemon.info : starting pid 2008, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:27 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2008) exited. Scheduling for restart.
+Dec 20 09:53:27 A98SmartAudio_AA00 daemon.info : starting pid 2010, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:28 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2010) exited. Scheduling for restart.
+Dec 20 09:53:28 A98SmartAudio_AA00 daemon.info : starting pid 2012, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:29 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2012) exited. Scheduling for restart.
+Dec 20 09:53:29 A98SmartAudio_AA00 daemon.info : starting pid 2014, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:30 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2014) exited. Scheduling for restart.
+Dec 20 09:53:30 A98SmartAudio_AA00 daemon.info : starting pid 2017, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:31 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2017) exited. Scheduling for restart.
+Dec 20 09:53:31 A98SmartAudio_AA00 daemon.info : starting pid 2019, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:32 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2019) exited. Scheduling for restart.
+Dec 20 09:53:32 A98SmartAudio_AA00 daemon.info : starting pid 2021, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:33 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2021) exited. Scheduling for restart.
+Dec 20 09:53:33 A98SmartAudio_AA00 daemon.info : starting pid 2025, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:34 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2025) exited. Scheduling for restart.
+Dec 20 09:53:34 A98SmartAudio_AA00 daemon.info : starting pid 2027, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:35 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2027) exited. Scheduling for restart.
+Dec 20 09:53:35 A98SmartAudio_AA00 daemon.info : starting pid 2029, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:36 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2029) exited. Scheduling for restart.
+Dec 20 09:53:36 A98SmartAudio_AA00 daemon.info : starting pid 2031, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:37 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2031) exited. Scheduling for restart.
+Dec 20 09:53:37 A98SmartAudio_AA00 daemon.info : starting pid 2039, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:38 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2039) exited. Scheduling for restart.
+Dec 20 09:53:38 A98SmartAudio_AA00 daemon.info : starting pid 2041, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:39 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2041) exited. Scheduling for restart.
+Dec 20 09:53:39 A98SmartAudio_AA00 daemon.info : starting pid 2043, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:40 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2043) exited. Scheduling for restart.
+Dec 20 09:53:40 A98SmartAudio_AA00 daemon.info : starting pid 2045, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:41 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2045) exited. Scheduling for restart.
+Dec 20 09:53:41 A98SmartAudio_AA00 daemon.info : starting pid 2059, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:42 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2059) exited. Scheduling for restart.
+Dec 20 09:53:42 A98SmartAudio_AA00 daemon.info : starting pid 2061, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:43 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2061) exited. Scheduling for restart.
+Dec 20 09:53:44 A98SmartAudio_AA00 daemon.info : starting pid 2063, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:45 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2063) exited. Scheduling for restart.
+Dec 20 09:53:45 A98SmartAudio_AA00 daemon.info : starting pid 2065, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:46 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2065) exited. Scheduling for restart.
+Dec 20 09:53:46 A98SmartAudio_AA00 daemon.info : starting pid 2067, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:47 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2067) exited. Scheduling for restart.
+Dec 20 09:53:47 A98SmartAudio_AA00 daemon.info : starting pid 2069, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:48 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2069) exited. Scheduling for restart.
+Dec 20 09:53:48 A98SmartAudio_AA00 daemon.info : starting pid 2072, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:49 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2072) exited. Scheduling for restart.
+Dec 20 09:53:49 A98SmartAudio_AA00 daemon.info : starting pid 2074, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:50 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2074) exited. Scheduling for restart.
+Dec 20 09:53:50 A98SmartAudio_AA00 daemon.info : starting pid 2076, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:51 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2076) exited. Scheduling for restart.
+Dec 20 09:53:51 A98SmartAudio_AA00 daemon.info : starting pid 2080, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:52 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2080) exited. Scheduling for restart.
+Dec 20 09:53:52 A98SmartAudio_AA00 daemon.info : starting pid 2082, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:53 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2082) exited. Scheduling for restart.
+Dec 20 09:53:53 A98SmartAudio_AA00 daemon.info : starting pid 2084, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:54 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2084) exited. Scheduling for restart.
+Dec 20 09:53:54 A98SmartAudio_AA00 daemon.info : starting pid 2086, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:55 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2086) exited. Scheduling for restart.
+Dec 20 09:53:55 A98SmartAudio_AA00 daemon.info : starting pid 2088, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:56 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2088) exited. Scheduling for restart.
+Dec 20 09:53:56 A98SmartAudio_AA00 daemon.info : starting pid 2090, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:57 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2090) exited. Scheduling for restart.
+Dec 20 09:53:57 A98SmartAudio_AA00 daemon.info : starting pid 2092, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:58 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2092) exited. Scheduling for restart.
+Dec 20 09:53:58 A98SmartAudio_AA00 daemon.info : starting pid 2094, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:53:59 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2094) exited. Scheduling for restart.
+Dec 20 09:53:59 A98SmartAudio_AA00 daemon.info : starting pid 2102, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:00 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2102) exited. Scheduling for restart.
+Dec 20 09:54:00 A98SmartAudio_AA00 daemon.info : starting pid 2110, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:01 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2110) exited. Scheduling for restart.
+Dec 20 09:54:01 A98SmartAudio_AA00 daemon.info : starting pid 2112, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:02 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2112) exited. Scheduling for restart.
+Dec 20 09:54:02 A98SmartAudio_AA00 daemon.info : starting pid 2114, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:03 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2114) exited. Scheduling for restart.
+Dec 20 09:54:03 A98SmartAudio_AA00 daemon.info : starting pid 2116, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:04 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2116) exited. Scheduling for restart.
+Dec 20 09:54:04 A98SmartAudio_AA00 daemon.info : starting pid 2118, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:05 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2118) exited. Scheduling for restart.
+Dec 20 09:54:05 A98SmartAudio_AA00 daemon.info : starting pid 2120, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:06 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2120) exited. Scheduling for restart.
+Dec 20 09:54:06 A98SmartAudio_AA00 daemon.info : starting pid 2123, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:07 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2123) exited. Scheduling for restart.
+Dec 20 09:54:07 A98SmartAudio_AA00 daemon.info : starting pid 2125, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:08 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2125) exited. Scheduling for restart.
+Dec 20 09:54:08 A98SmartAudio_AA00 daemon.info : starting pid 2133, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:09 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2133) exited. Scheduling for restart.
+Dec 20 09:54:09 A98SmartAudio_AA00 daemon.info : starting pid 2137, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:10 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2137) exited. Scheduling for restart.
+Dec 20 09:54:10 A98SmartAudio_AA00 daemon.info : starting pid 2139, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:11 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2139) exited. Scheduling for restart.
+Dec 20 09:54:11 A98SmartAudio_AA00 daemon.info : starting pid 2141, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:12 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2141) exited. Scheduling for restart.
+Dec 20 09:54:12 A98SmartAudio_AA00 daemon.info : starting pid 2143, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:13 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2143) exited. Scheduling for restart.
+Dec 20 09:54:13 A98SmartAudio_AA00 daemon.info : starting pid 2145, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:14 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2145) exited. Scheduling for restart.
+Dec 20 09:54:14 A98SmartAudio_AA00 daemon.info : starting pid 2153, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:15 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2153) exited. Scheduling for restart.
+Dec 20 09:54:15 A98SmartAudio_AA00 daemon.info : starting pid 2161, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:16 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2161) exited. Scheduling for restart.
+Dec 20 09:54:16 A98SmartAudio_AA00 daemon.info : starting pid 2169, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:17 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2169) exited. Scheduling for restart.
+Dec 20 09:54:17 A98SmartAudio_AA00 daemon.info : starting pid 2186, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:18 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2186) exited. Scheduling for restart.
+Dec 20 09:54:18 A98SmartAudio_AA00 daemon.info : starting pid 2197, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:19 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2197) exited. Scheduling for restart.
+Dec 20 09:54:19 A98SmartAudio_AA00 daemon.info : starting pid 2205, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:20 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2205) exited. Scheduling for restart.
+Dec 20 09:54:20 A98SmartAudio_AA00 daemon.info : starting pid 2207, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:21 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2207) exited. Scheduling for restart.
+Dec 20 09:54:21 A98SmartAudio_AA00 daemon.info : starting pid 2214, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:22 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2214) exited. Scheduling for restart.
+Dec 20 09:54:22 A98SmartAudio_AA00 daemon.info : starting pid 2216, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:23 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2216) exited. Scheduling for restart.
+Dec 20 09:54:23 A98SmartAudio_AA00 daemon.info : starting pid 2218, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:24 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2218) exited. Scheduling for restart.
+Dec 20 09:54:24 A98SmartAudio_AA00 daemon.info : starting pid 2221, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:25 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2221) exited. Scheduling for restart.
+Dec 20 09:54:25 A98SmartAudio_AA00 daemon.info : starting pid 2223, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:26 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2223) exited. Scheduling for restart.
+Dec 20 09:54:26 A98SmartAudio_AA00 daemon.info : starting pid 2227, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:27 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2227) exited. Scheduling for restart.
+Dec 20 09:54:27 A98SmartAudio_AA00 daemon.info : starting pid 2229, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:28 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2229) exited. Scheduling for restart.
+Dec 20 09:54:28 A98SmartAudio_AA00 daemon.info : starting pid 2231, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:29 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2231) exited. Scheduling for restart.
+Dec 20 09:54:29 A98SmartAudio_AA00 daemon.info : starting pid 2233, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:30 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2233) exited. Scheduling for restart.
+Dec 20 09:54:30 A98SmartAudio_AA00 daemon.info : starting pid 2235, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:31 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2235) exited. Scheduling for restart.
+Dec 20 09:54:31 A98SmartAudio_AA00 daemon.info : starting pid 2237, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:32 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2237) exited. Scheduling for restart.
+Dec 20 09:54:32 A98SmartAudio_AA00 daemon.info : starting pid 2239, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:33 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2239) exited. Scheduling for restart.
+Dec 20 09:54:33 A98SmartAudio_AA00 daemon.info : starting pid 2241, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:34 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2241) exited. Scheduling for restart.
+Dec 20 09:54:34 A98SmartAudio_AA00 daemon.info : starting pid 2249, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:35 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2249) exited. Scheduling for restart.
+Dec 20 09:54:35 A98SmartAudio_AA00 daemon.info : starting pid 2251, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:36 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2251) exited. Scheduling for restart.
+Dec 20 09:54:36 A98SmartAudio_AA00 daemon.info : starting pid 2253, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:37 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2253) exited. Scheduling for restart.
+Dec 20 09:54:37 A98SmartAudio_AA00 daemon.info : starting pid 2255, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:38 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2255) exited. Scheduling for restart.
+Dec 20 09:54:38 A98SmartAudio_AA00 daemon.info : starting pid 2263, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:39 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2263) exited. Scheduling for restart.
+Dec 20 09:54:39 A98SmartAudio_AA00 daemon.info : starting pid 2271, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:40 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2271) exited. Scheduling for restart.
+Dec 20 09:54:40 A98SmartAudio_AA00 daemon.info : starting pid 2273, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:41 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2273) exited. Scheduling for restart.
+Dec 20 09:54:41 A98SmartAudio_AA00 daemon.info : starting pid 2276, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:42 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2276) exited. Scheduling for restart.
+Dec 20 09:54:42 A98SmartAudio_AA00 daemon.info : starting pid 2278, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:43 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2278) exited. Scheduling for restart.
+Dec 20 09:54:43 A98SmartAudio_AA00 daemon.info : starting pid 2280, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:44 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2280) exited. Scheduling for restart.
+Dec 20 09:54:44 A98SmartAudio_AA00 daemon.info : starting pid 2284, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:45 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2284) exited. Scheduling for restart.
+Dec 20 09:54:45 A98SmartAudio_AA00 daemon.info : starting pid 2286, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:46 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2286) exited. Scheduling for restart.
+Dec 20 09:54:46 A98SmartAudio_AA00 daemon.info : starting pid 2294, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:47 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2294) exited. Scheduling for restart.
+Dec 20 09:54:47 A98SmartAudio_AA00 daemon.info : starting pid 2308, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:48 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2308) exited. Scheduling for restart.
+Dec 20 09:54:48 A98SmartAudio_AA00 daemon.info : starting pid 2310, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:49 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2310) exited. Scheduling for restart.
+Dec 20 09:54:49 A98SmartAudio_AA00 daemon.info : starting pid 2312, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:50 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2312) exited. Scheduling for restart.
+Dec 20 09:54:50 A98SmartAudio_AA00 daemon.info : starting pid 2314, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:51 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2314) exited. Scheduling for restart.
+Dec 20 09:54:51 A98SmartAudio_AA00 daemon.info : starting pid 2316, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:52 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2316) exited. Scheduling for restart.
+Dec 20 09:54:52 A98SmartAudio_AA00 daemon.info : starting pid 2318, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:53 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2318) exited. Scheduling for restart.
+Dec 20 09:54:53 A98SmartAudio_AA00 daemon.info : starting pid 2320, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:54 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2320) exited. Scheduling for restart.
+Dec 20 09:54:54 A98SmartAudio_AA00 daemon.info : starting pid 2328, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:55 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2328) exited. Scheduling for restart.
+Dec 20 09:54:55 A98SmartAudio_AA00 daemon.info : starting pid 2331, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:56 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2331) exited. Scheduling for restart.
+Dec 20 09:54:56 A98SmartAudio_AA00 daemon.info : starting pid 2333, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:57 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2333) exited. Scheduling for restart.
+Dec 20 09:54:57 A98SmartAudio_AA00 daemon.info : starting pid 2335, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:58 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2335) exited. Scheduling for restart.
+Dec 20 09:54:58 A98SmartAudio_AA00 daemon.info : starting pid 2338, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:54:59 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2338) exited. Scheduling for restart.
+Dec 20 09:54:59 A98SmartAudio_AA00 daemon.info : starting pid 2340, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:00 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2340) exited. Scheduling for restart.
+Dec 20 09:55:00 A98SmartAudio_AA00 daemon.info : starting pid 2342, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:01 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2342) exited. Scheduling for restart.
+Dec 20 09:55:01 A98SmartAudio_AA00 daemon.info : starting pid 2346, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:02 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2346) exited. Scheduling for restart.
+Dec 20 09:55:02 A98SmartAudio_AA00 daemon.info : starting pid 2348, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:03 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2348) exited. Scheduling for restart.
+Dec 20 09:55:03 A98SmartAudio_AA00 daemon.info : starting pid 2356, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:04 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2356) exited. Scheduling for restart.
+Dec 20 09:55:04 A98SmartAudio_AA00 daemon.info : starting pid 2358, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:05 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2358) exited. Scheduling for restart.
+Dec 20 09:55:05 A98SmartAudio_AA00 daemon.info : starting pid 2378, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:06 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2378) exited. Scheduling for restart.
+Dec 20 09:55:06 A98SmartAudio_AA00 daemon.info : starting pid 2380, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:07 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2380) exited. Scheduling for restart.
+Dec 20 09:55:07 A98SmartAudio_AA00 daemon.info : starting pid 2382, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:08 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2382) exited. Scheduling for restart.
+Dec 20 09:55:08 A98SmartAudio_AA00 daemon.info : starting pid 2384, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:09 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2384) exited. Scheduling for restart.
+Dec 20 09:55:09 A98SmartAudio_AA00 daemon.info : starting pid 2398, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:10 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2398) exited. Scheduling for restart.
+Dec 20 09:55:10 A98SmartAudio_AA00 daemon.info : starting pid 2400, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:11 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2400) exited. Scheduling for restart.
+Dec 20 09:55:11 A98SmartAudio_AA00 daemon.info : starting pid 2402, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:12 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2402) exited. Scheduling for restart.
+Dec 20 09:55:12 A98SmartAudio_AA00 daemon.info : starting pid 2404, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:13 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2404) exited. Scheduling for restart.
+Dec 20 09:55:13 A98SmartAudio_AA00 daemon.info : starting pid 2526, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:14 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2526) exited. Scheduling for restart.
+Dec 20 09:55:14 A98SmartAudio_AA00 daemon.info : starting pid 2650, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:15 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2650) exited. Scheduling for restart.
+Dec 20 09:55:15 A98SmartAudio_AA00 daemon.info : starting pid 2712, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:16 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2712) exited. Scheduling for restart.
+Dec 20 09:55:16 A98SmartAudio_AA00 daemon.info : starting pid 2780, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:17 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2780) exited. Scheduling for restart.
+Dec 20 09:55:17 A98SmartAudio_AA00 daemon.info : starting pid 2847, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:18 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2847) exited. Scheduling for restart.
+Dec 20 09:55:18 A98SmartAudio_AA00 daemon.info : starting pid 2856, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:19 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2856) exited. Scheduling for restart.
+Dec 20 09:55:19 A98SmartAudio_AA00 daemon.info : starting pid 2883, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:20 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2883) exited. Scheduling for restart.
+Dec 20 09:55:20 A98SmartAudio_AA00 daemon.info : starting pid 2900, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:21 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2900) exited. Scheduling for restart.
+Dec 20 09:55:21 A98SmartAudio_AA00 daemon.info : starting pid 2912, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:22 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2912) exited. Scheduling for restart.
+Dec 20 09:55:22 A98SmartAudio_AA00 daemon.info : starting pid 2929, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:23 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2929) exited. Scheduling for restart.
+Dec 20 09:55:23 A98SmartAudio_AA00 daemon.info : starting pid 2956, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:24 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2956) exited. Scheduling for restart.
+Dec 20 09:55:24 A98SmartAudio_AA00 daemon.info : starting pid 2988, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:25 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 2988) exited. Scheduling for restart.
+Dec 20 09:55:25 A98SmartAudio_AA00 daemon.info : starting pid 3020, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:26 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3020) exited. Scheduling for restart.
+Dec 20 09:55:26 A98SmartAudio_AA00 daemon.info : starting pid 3032, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:27 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3032) exited. Scheduling for restart.
+Dec 20 09:55:27 A98SmartAudio_AA00 daemon.info : starting pid 3039, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:28 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3039) exited. Scheduling for restart.
+Dec 20 09:55:28 A98SmartAudio_AA00 daemon.info : starting pid 3056, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:29 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3056) exited. Scheduling for restart.
+Dec 20 09:55:29 A98SmartAudio_AA00 daemon.info : starting pid 3063, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:30 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3063) exited. Scheduling for restart.
+Dec 20 09:55:30 A98SmartAudio_AA00 daemon.info : starting pid 3065, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:31 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3065) exited. Scheduling for restart.
+Dec 20 09:55:31 A98SmartAudio_AA00 daemon.info : starting pid 3072, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:32 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3072) exited. Scheduling for restart.
+Dec 20 09:55:32 A98SmartAudio_AA00 daemon.info : starting pid 3079, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:33 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3079) exited. Scheduling for restart.
+Dec 20 09:55:33 A98SmartAudio_AA00 daemon.info : starting pid 3102, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:34 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3102) exited. Scheduling for restart.
+Dec 20 09:55:34 A98SmartAudio_AA00 daemon.info : starting pid 3109, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:35 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3109) exited. Scheduling for restart.
+Dec 20 09:55:35 A98SmartAudio_AA00 daemon.info : starting pid 3111, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:36 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3111) exited. Scheduling for restart.
+Dec 20 09:55:36 A98SmartAudio_AA00 daemon.info : starting pid 3113, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:37 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3113) exited. Scheduling for restart.
+Dec 20 09:55:37 A98SmartAudio_AA00 daemon.info : starting pid 3115, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:38 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3115) exited. Scheduling for restart.
+Dec 20 09:55:38 A98SmartAudio_AA00 daemon.info : starting pid 3117, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:39 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3117) exited. Scheduling for restart.
+Dec 20 09:55:39 A98SmartAudio_AA00 daemon.info : starting pid 3119, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:40 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3119) exited. Scheduling for restart.
+Dec 20 09:55:40 A98SmartAudio_AA00 daemon.info : starting pid 3126, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:41 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3126) exited. Scheduling for restart.
+Dec 20 09:55:41 A98SmartAudio_AA00 daemon.info : starting pid 3135, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:42 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3135) exited. Scheduling for restart.
+Dec 20 09:55:42 A98SmartAudio_AA00 daemon.info : starting pid 3137, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:43 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3137) exited. Scheduling for restart.
+Dec 20 09:55:44 A98SmartAudio_AA00 daemon.info : starting pid 3139, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:45 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3139) exited. Scheduling for restart.
+Dec 20 09:55:45 A98SmartAudio_AA00 daemon.info : starting pid 3146, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:46 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3146) exited. Scheduling for restart.
+Dec 20 09:55:46 A98SmartAudio_AA00 daemon.info : starting pid 3148, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:47 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3148) exited. Scheduling for restart.
+Dec 20 09:55:47 A98SmartAudio_AA00 daemon.info : starting pid 3150, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:48 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3150) exited. Scheduling for restart.
+Dec 20 09:55:48 A98SmartAudio_AA00 daemon.info : starting pid 3152, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:49 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3152) exited. Scheduling for restart.
+Dec 20 09:55:49 A98SmartAudio_AA00 daemon.info : starting pid 3154, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:50 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3154) exited. Scheduling for restart.
+Dec 20 09:55:50 A98SmartAudio_AA00 daemon.info : starting pid 3156, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:51 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3156) exited. Scheduling for restart.
+Dec 20 09:55:51 A98SmartAudio_AA00 daemon.info : starting pid 3168, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:52 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3168) exited. Scheduling for restart.
+Dec 20 09:55:52 A98SmartAudio_AA00 daemon.info : starting pid 3180, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:53 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3180) exited. Scheduling for restart.
+Dec 20 09:55:53 A98SmartAudio_AA00 daemon.info : starting pid 3217, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:54 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3217) exited. Scheduling for restart.
+Dec 20 09:55:54 A98SmartAudio_AA00 daemon.info : starting pid 3269, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:55 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3269) exited. Scheduling for restart.
+Dec 20 09:55:55 A98SmartAudio_AA00 daemon.info : starting pid 3296, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:56 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3296) exited. Scheduling for restart.
+Dec 20 09:55:56 A98SmartAudio_AA00 daemon.info : starting pid 3359, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:57 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3359) exited. Scheduling for restart.
+Dec 20 09:55:57 A98SmartAudio_AA00 daemon.info : starting pid 3421, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:58 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3421) exited. Scheduling for restart.
+Dec 20 09:55:58 A98SmartAudio_AA00 daemon.info : starting pid 3463, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:55:59 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3463) exited. Scheduling for restart.
+Dec 20 09:55:59 A98SmartAudio_AA00 daemon.info : starting pid 3487, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:00 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3487) exited. Scheduling for restart.
+Dec 20 09:56:00 A98SmartAudio_AA00 daemon.info : starting pid 3574, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:01 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3574) exited. Scheduling for restart.
+Dec 20 09:56:01 A98SmartAudio_AA00 daemon.info : starting pid 3621, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:02 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3621) exited. Scheduling for restart.
+Dec 20 09:56:02 A98SmartAudio_AA00 daemon.info : starting pid 3783, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:03 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3783) exited. Scheduling for restart.
+Dec 20 09:56:03 A98SmartAudio_AA00 daemon.info : starting pid 3845, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:04 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3845) exited. Scheduling for restart.
+Dec 20 09:56:04 A98SmartAudio_AA00 daemon.info : starting pid 3982, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:05 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 3982) exited. Scheduling for restart.
+Dec 20 09:56:05 A98SmartAudio_AA00 daemon.info : starting pid 4049, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:06 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4049) exited. Scheduling for restart.
+Dec 20 09:56:06 A98SmartAudio_AA00 daemon.info : starting pid 4051, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:07 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4051) exited. Scheduling for restart.
+Dec 20 09:56:07 A98SmartAudio_AA00 daemon.info : starting pid 4113, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:08 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4113) exited. Scheduling for restart.
+Dec 20 09:56:08 A98SmartAudio_AA00 daemon.info : starting pid 4220, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:09 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4220) exited. Scheduling for restart.
+Dec 20 09:56:09 A98SmartAudio_AA00 daemon.info : starting pid 4242, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:10 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4242) exited. Scheduling for restart.
+Dec 20 09:56:10 A98SmartAudio_AA00 daemon.info : starting pid 4269, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:11 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4269) exited. Scheduling for restart.
+Dec 20 09:56:11 A98SmartAudio_AA00 daemon.info : starting pid 4276, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:12 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4276) exited. Scheduling for restart.
+Dec 20 09:56:12 A98SmartAudio_AA00 daemon.info : starting pid 4283, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:13 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4283) exited. Scheduling for restart.
+Dec 20 09:56:13 A98SmartAudio_AA00 daemon.info : starting pid 4375, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:14 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4375) exited. Scheduling for restart.
+Dec 20 09:56:14 A98SmartAudio_AA00 daemon.info : starting pid 4418, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:15 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4418) exited. Scheduling for restart.
+Dec 20 09:56:15 A98SmartAudio_AA00 daemon.info : starting pid 4451, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:16 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4451) exited. Scheduling for restart.
+Dec 20 09:56:16 A98SmartAudio_AA00 daemon.info : starting pid 4612, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:17 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4612) exited. Scheduling for restart.
+Dec 20 09:56:17 A98SmartAudio_AA00 daemon.info : starting pid 4660, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:18 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4660) exited. Scheduling for restart.
+Dec 20 09:56:18 A98SmartAudio_AA00 daemon.info : starting pid 4803, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:19 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4803) exited. Scheduling for restart.
+Dec 20 09:56:19 A98SmartAudio_AA00 daemon.info : starting pid 4805, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:20 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4805) exited. Scheduling for restart.
+Dec 20 09:56:20 A98SmartAudio_AA00 daemon.info : starting pid 4807, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:21 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4807) exited. Scheduling for restart.
+Dec 20 09:56:21 A98SmartAudio_AA00 daemon.info : starting pid 4809, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:22 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4809) exited. Scheduling for restart.
+Dec 20 09:56:22 A98SmartAudio_AA00 daemon.info : starting pid 4811, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:23 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4811) exited. Scheduling for restart.
+Dec 20 09:56:23 A98SmartAudio_AA00 daemon.info : starting pid 4813, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:24 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4813) exited. Scheduling for restart.
+Dec 20 09:56:24 A98SmartAudio_AA00 daemon.info : starting pid 4815, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:25 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4815) exited. Scheduling for restart.
+Dec 20 09:56:25 A98SmartAudio_AA00 daemon.info : starting pid 4817, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:26 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4817) exited. Scheduling for restart.
+Dec 20 09:56:26 A98SmartAudio_AA00 daemon.info : starting pid 4819, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:27 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4819) exited. Scheduling for restart.
+Dec 20 09:56:27 A98SmartAudio_AA00 daemon.info : starting pid 4821, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:28 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4821) exited. Scheduling for restart.
+Dec 20 09:56:28 A98SmartAudio_AA00 daemon.info : starting pid 4823, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:29 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4823) exited. Scheduling for restart.
+Dec 20 09:56:29 A98SmartAudio_AA00 daemon.info : starting pid 4825, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:30 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4825) exited. Scheduling for restart.
+Dec 20 09:56:30 A98SmartAudio_AA00 daemon.info : starting pid 4827, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:31 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4827) exited. Scheduling for restart.
+Dec 20 09:56:31 A98SmartAudio_AA00 daemon.info : starting pid 4829, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:32 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4829) exited. Scheduling for restart.
+Dec 20 09:56:32 A98SmartAudio_AA00 daemon.info : starting pid 4832, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:33 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4832) exited. Scheduling for restart.
+Dec 20 09:56:33 A98SmartAudio_AA00 daemon.info : starting pid 4836, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:34 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4836) exited. Scheduling for restart.
+Dec 20 09:56:34 A98SmartAudio_AA00 daemon.info : starting pid 4838, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:35 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4838) exited. Scheduling for restart.
+Dec 20 09:56:35 A98SmartAudio_AA00 daemon.info : starting pid 4840, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:36 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4840) exited. Scheduling for restart.
+Dec 20 09:56:36 A98SmartAudio_AA00 daemon.info : starting pid 4842, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:37 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4842) exited. Scheduling for restart.
+Dec 20 09:56:37 A98SmartAudio_AA00 daemon.info : starting pid 4844, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:38 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4844) exited. Scheduling for restart.
+Dec 20 09:56:38 A98SmartAudio_AA00 daemon.info : starting pid 4846, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:39 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4846) exited. Scheduling for restart.
+Dec 20 09:56:39 A98SmartAudio_AA00 daemon.info : starting pid 4848, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:40 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4848) exited. Scheduling for restart.
+Dec 20 09:56:40 A98SmartAudio_AA00 daemon.info : starting pid 4850, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:41 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4850) exited. Scheduling for restart.
+Dec 20 09:56:41 A98SmartAudio_AA00 daemon.info : starting pid 4852, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:42 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4852) exited. Scheduling for restart.
+Dec 20 09:56:42 A98SmartAudio_AA00 daemon.info : starting pid 4854, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:43 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4854) exited. Scheduling for restart.
+Dec 20 09:56:43 A98SmartAudio_AA00 daemon.info : starting pid 4856, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:44 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4856) exited. Scheduling for restart.
+Dec 20 09:56:44 A98SmartAudio_AA00 daemon.info : starting pid 4858, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:45 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4858) exited. Scheduling for restart.
+Dec 20 09:56:45 A98SmartAudio_AA00 daemon.info : starting pid 4860, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:46 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4860) exited. Scheduling for restart.
+Dec 20 09:56:46 A98SmartAudio_AA00 daemon.info : starting pid 4862, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:47 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4862) exited. Scheduling for restart.
+Dec 20 09:56:47 A98SmartAudio_AA00 daemon.info : starting pid 4865, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:48 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4865) exited. Scheduling for restart.
+Dec 20 09:56:48 A98SmartAudio_AA00 daemon.info : starting pid 4869, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:49 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4869) exited. Scheduling for restart.
+Dec 20 09:56:49 A98SmartAudio_AA00 daemon.info : starting pid 4871, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:50 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4871) exited. Scheduling for restart.
+Dec 20 09:56:50 A98SmartAudio_AA00 daemon.info : starting pid 4873, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:51 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4873) exited. Scheduling for restart.
+Dec 20 09:56:51 A98SmartAudio_AA00 daemon.info : starting pid 4875, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:52 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4875) exited. Scheduling for restart.
+Dec 20 09:56:52 A98SmartAudio_AA00 daemon.info : starting pid 4877, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:53 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4877) exited. Scheduling for restart.
+Dec 20 09:56:53 A98SmartAudio_AA00 daemon.info : starting pid 4879, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:54 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4879) exited. Scheduling for restart.
+Dec 20 09:56:54 A98SmartAudio_AA00 daemon.info : starting pid 4881, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:55 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4881) exited. Scheduling for restart.
+Dec 20 09:56:55 A98SmartAudio_AA00 daemon.info : starting pid 4883, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:56 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4883) exited. Scheduling for restart.
+Dec 20 09:56:56 A98SmartAudio_AA00 daemon.info : starting pid 4885, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:57 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4885) exited. Scheduling for restart.
+Dec 20 09:56:57 A98SmartAudio_AA00 daemon.info : starting pid 4887, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:58 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4887) exited. Scheduling for restart.
+Dec 20 09:56:58 A98SmartAudio_AA00 daemon.info : starting pid 4889, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:56:59 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4889) exited. Scheduling for restart.
+Dec 20 09:56:59 A98SmartAudio_AA00 daemon.info : starting pid 4891, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:00 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4891) exited. Scheduling for restart.
+Dec 20 09:57:00 A98SmartAudio_AA00 daemon.info : starting pid 4893, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:01 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4893) exited. Scheduling for restart.
+Dec 20 09:57:01 A98SmartAudio_AA00 daemon.info : starting pid 4895, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:02 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4895) exited. Scheduling for restart.
+Dec 20 09:57:02 A98SmartAudio_AA00 daemon.info : starting pid 4897, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:03 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4897) exited. Scheduling for restart.
+Dec 20 09:57:03 A98SmartAudio_AA00 daemon.info : starting pid 4900, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:04 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4900) exited. Scheduling for restart.
+Dec 20 09:57:04 A98SmartAudio_AA00 daemon.info : starting pid 4904, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:05 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4904) exited. Scheduling for restart.
+Dec 20 09:57:05 A98SmartAudio_AA00 daemon.info : starting pid 4906, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:06 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4906) exited. Scheduling for restart.
+Dec 20 09:57:06 A98SmartAudio_AA00 daemon.info : starting pid 4908, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:07 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4908) exited. Scheduling for restart.
+Dec 20 09:57:07 A98SmartAudio_AA00 daemon.info : starting pid 4910, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:08 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4910) exited. Scheduling for restart.
+Dec 20 09:57:08 A98SmartAudio_AA00 daemon.info : starting pid 4912, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:09 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4912) exited. Scheduling for restart.
+Dec 20 09:57:09 A98SmartAudio_AA00 daemon.info : starting pid 4914, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:10 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4914) exited. Scheduling for restart.
+Dec 20 09:57:10 A98SmartAudio_AA00 daemon.info : starting pid 4916, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:11 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4916) exited. Scheduling for restart.
+Dec 20 09:57:11 A98SmartAudio_AA00 daemon.info : starting pid 4918, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:12 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4918) exited. Scheduling for restart.
+Dec 20 09:57:12 A98SmartAudio_AA00 daemon.info : starting pid 4920, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:13 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4920) exited. Scheduling for restart.
+Dec 20 09:57:13 A98SmartAudio_AA00 daemon.info : starting pid 4922, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:14 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4922) exited. Scheduling for restart.
+Dec 20 09:57:14 A98SmartAudio_AA00 daemon.info : starting pid 4924, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:15 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4924) exited. Scheduling for restart.
+Dec 20 09:57:15 A98SmartAudio_AA00 daemon.info : starting pid 4926, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:16 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4926) exited. Scheduling for restart.
+Dec 20 09:57:16 A98SmartAudio_AA00 daemon.info : starting pid 4928, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:17 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4928) exited. Scheduling for restart.
+Dec 20 09:57:17 A98SmartAudio_AA00 daemon.info : starting pid 4930, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:18 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4930) exited. Scheduling for restart.
+Dec 20 09:57:18 A98SmartAudio_AA00 daemon.info : starting pid 4932, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:19 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4932) exited. Scheduling for restart.
+Dec 20 09:57:19 A98SmartAudio_AA00 daemon.info : starting pid 4935, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:20 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4935) exited. Scheduling for restart.
+Dec 20 09:57:20 A98SmartAudio_AA00 daemon.info : starting pid 4937, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:21 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4937) exited. Scheduling for restart.
+Dec 20 09:57:21 A98SmartAudio_AA00 daemon.info : starting pid 4941, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:22 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4941) exited. Scheduling for restart.
+Dec 20 09:57:22 A98SmartAudio_AA00 daemon.info : starting pid 4943, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:23 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4943) exited. Scheduling for restart.
+Dec 20 09:57:23 A98SmartAudio_AA00 daemon.info : starting pid 4945, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:24 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4945) exited. Scheduling for restart.
+Dec 20 09:57:24 A98SmartAudio_AA00 daemon.info : starting pid 4947, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:25 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4947) exited. Scheduling for restart.
+Dec 20 09:57:25 A98SmartAudio_AA00 daemon.info : starting pid 4949, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:26 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4949) exited. Scheduling for restart.
+Dec 20 09:57:26 A98SmartAudio_AA00 daemon.info : starting pid 4951, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:27 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4951) exited. Scheduling for restart.
+Dec 20 09:57:27 A98SmartAudio_AA00 daemon.info : starting pid 4953, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:28 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4953) exited. Scheduling for restart.
+Dec 20 09:57:28 A98SmartAudio_AA00 daemon.info : starting pid 4955, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:29 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4955) exited. Scheduling for restart.
+Dec 20 09:57:29 A98SmartAudio_AA00 daemon.info : starting pid 4957, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:30 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4957) exited. Scheduling for restart.
+Dec 20 09:57:30 A98SmartAudio_AA00 daemon.info : starting pid 4959, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:31 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4959) exited. Scheduling for restart.
+Dec 20 09:57:31 A98SmartAudio_AA00 daemon.info : starting pid 4961, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:32 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4961) exited. Scheduling for restart.
+Dec 20 09:57:32 A98SmartAudio_AA00 daemon.info : starting pid 4963, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:33 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4963) exited. Scheduling for restart.
+Dec 20 09:57:33 A98SmartAudio_AA00 daemon.info : starting pid 4965, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:34 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4965) exited. Scheduling for restart.
+Dec 20 09:57:34 A98SmartAudio_AA00 daemon.info : starting pid 4967, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:35 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4967) exited. Scheduling for restart.
+Dec 20 09:57:35 A98SmartAudio_AA00 daemon.info : starting pid 4969, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:36 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4969) exited. Scheduling for restart.
+Dec 20 09:57:36 A98SmartAudio_AA00 daemon.info : starting pid 4972, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:37 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4972) exited. Scheduling for restart.
+Dec 20 09:57:37 A98SmartAudio_AA00 daemon.info : starting pid 4974, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:38 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4974) exited. Scheduling for restart.
+Dec 20 09:57:38 A98SmartAudio_AA00 daemon.info : starting pid 4978, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:39 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4978) exited. Scheduling for restart.
+Dec 20 09:57:39 A98SmartAudio_AA00 daemon.info : starting pid 4980, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:40 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4980) exited. Scheduling for restart.
+Dec 20 09:57:40 A98SmartAudio_AA00 daemon.info : starting pid 4982, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:41 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4982) exited. Scheduling for restart.
+Dec 20 09:57:41 A98SmartAudio_AA00 daemon.info : starting pid 4984, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:42 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4984) exited. Scheduling for restart.
+Dec 20 09:57:42 A98SmartAudio_AA00 daemon.info : starting pid 4986, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:44 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4986) exited. Scheduling for restart.
+Dec 20 09:57:44 A98SmartAudio_AA00 daemon.info : starting pid 4988, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:45 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4988) exited. Scheduling for restart.
+Dec 20 09:57:45 A98SmartAudio_AA00 daemon.info : starting pid 4990, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:46 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4990) exited. Scheduling for restart.
+Dec 20 09:57:46 A98SmartAudio_AA00 daemon.info : starting pid 4992, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:47 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4992) exited. Scheduling for restart.
+Dec 20 09:57:47 A98SmartAudio_AA00 daemon.info : starting pid 4994, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:48 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4994) exited. Scheduling for restart.
+Dec 20 09:57:48 A98SmartAudio_AA00 daemon.info : starting pid 4996, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:49 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4996) exited. Scheduling for restart.
+Dec 20 09:57:49 A98SmartAudio_AA00 daemon.info : starting pid 4998, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:50 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 4998) exited. Scheduling for restart.
+Dec 20 09:57:50 A98SmartAudio_AA00 daemon.info : starting pid 5000, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:51 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5000) exited. Scheduling for restart.
+Dec 20 09:57:51 A98SmartAudio_AA00 daemon.info : starting pid 5002, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:52 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5002) exited. Scheduling for restart.
+Dec 20 09:57:52 A98SmartAudio_AA00 daemon.info : starting pid 5004, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:53 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5004) exited. Scheduling for restart.
+Dec 20 09:57:53 A98SmartAudio_AA00 daemon.info : starting pid 5006, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:54 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5006) exited. Scheduling for restart.
+Dec 20 09:57:54 A98SmartAudio_AA00 daemon.info : starting pid 5009, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:55 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5009) exited. Scheduling for restart.
+Dec 20 09:57:55 A98SmartAudio_AA00 daemon.info : starting pid 5011, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:56 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5011) exited. Scheduling for restart.
+Dec 20 09:57:56 A98SmartAudio_AA00 daemon.info : starting pid 5013, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:57 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5013) exited. Scheduling for restart.
+Dec 20 09:57:57 A98SmartAudio_AA00 daemon.info : starting pid 5017, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:58 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5017) exited. Scheduling for restart.
+Dec 20 09:57:58 A98SmartAudio_AA00 daemon.info : starting pid 5019, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:57:59 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5019) exited. Scheduling for restart.
+Dec 20 09:57:59 A98SmartAudio_AA00 daemon.info : starting pid 5021, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:00 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5021) exited. Scheduling for restart.
+Dec 20 09:58:00 A98SmartAudio_AA00 daemon.info : starting pid 5023, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:01 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5023) exited. Scheduling for restart.
+Dec 20 09:58:01 A98SmartAudio_AA00 daemon.info : starting pid 5025, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:02 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5025) exited. Scheduling for restart.
+Dec 20 09:58:02 A98SmartAudio_AA00 daemon.info : starting pid 5027, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:03 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5027) exited. Scheduling for restart.
+Dec 20 09:58:03 A98SmartAudio_AA00 daemon.info : starting pid 5029, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:04 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5029) exited. Scheduling for restart.
+Dec 20 09:58:04 A98SmartAudio_AA00 daemon.info : starting pid 5031, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:05 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5031) exited. Scheduling for restart.
+Dec 20 09:58:05 A98SmartAudio_AA00 daemon.info : starting pid 5033, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:06 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5033) exited. Scheduling for restart.
+Dec 20 09:58:06 A98SmartAudio_AA00 daemon.info : starting pid 5035, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:07 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5035) exited. Scheduling for restart.
+Dec 20 09:58:07 A98SmartAudio_AA00 daemon.info : starting pid 5037, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:08 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5037) exited. Scheduling for restart.
+Dec 20 09:58:08 A98SmartAudio_AA00 daemon.info : starting pid 5039, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:09 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5039) exited. Scheduling for restart.
+Dec 20 09:58:09 A98SmartAudio_AA00 daemon.info : starting pid 5041, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:10 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5041) exited. Scheduling for restart.
+Dec 20 09:58:10 A98SmartAudio_AA00 daemon.info : starting pid 5043, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:11 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5043) exited. Scheduling for restart.
+Dec 20 09:58:11 A98SmartAudio_AA00 daemon.info : starting pid 5045, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:12 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5045) exited. Scheduling for restart.
+Dec 20 09:58:12 A98SmartAudio_AA00 daemon.info : starting pid 5048, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:13 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5048) exited. Scheduling for restart.
+Dec 20 09:58:13 A98SmartAudio_AA00 daemon.info : starting pid 5050, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:14 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5050) exited. Scheduling for restart.
+Dec 20 09:58:14 A98SmartAudio_AA00 daemon.info : starting pid 5054, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:15 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5054) exited. Scheduling for restart.
+Dec 20 09:58:15 A98SmartAudio_AA00 daemon.info : starting pid 5056, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:16 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5056) exited. Scheduling for restart.
+Dec 20 09:58:16 A98SmartAudio_AA00 daemon.info : starting pid 5058, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:17 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5058) exited. Scheduling for restart.
+Dec 20 09:58:17 A98SmartAudio_AA00 daemon.info : starting pid 5060, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:18 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5060) exited. Scheduling for restart.
+Dec 20 09:58:18 A98SmartAudio_AA00 daemon.info : starting pid 5062, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:19 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5062) exited. Scheduling for restart.
+Dec 20 09:58:19 A98SmartAudio_AA00 daemon.info : starting pid 5064, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:20 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5064) exited. Scheduling for restart.
+Dec 20 09:58:20 A98SmartAudio_AA00 daemon.info : starting pid 5066, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:21 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5066) exited. Scheduling for restart.
+Dec 20 09:58:21 A98SmartAudio_AA00 daemon.info : starting pid 5068, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:22 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5068) exited. Scheduling for restart.
+Dec 20 09:58:22 A98SmartAudio_AA00 daemon.info : starting pid 5070, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:23 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5070) exited. Scheduling for restart.
+Dec 20 09:58:23 A98SmartAudio_AA00 daemon.info : starting pid 5072, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:24 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5072) exited. Scheduling for restart.
+Dec 20 09:58:24 A98SmartAudio_AA00 daemon.info : starting pid 5074, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:25 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5074) exited. Scheduling for restart.
+Dec 20 09:58:25 A98SmartAudio_AA00 daemon.info : starting pid 5076, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:26 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5076) exited. Scheduling for restart.
+Dec 20 09:58:26 A98SmartAudio_AA00 daemon.info : starting pid 5078, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:27 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5078) exited. Scheduling for restart.
+Dec 20 09:58:27 A98SmartAudio_AA00 daemon.info : starting pid 5080, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:28 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5080) exited. Scheduling for restart.
+Dec 20 09:58:28 A98SmartAudio_AA00 daemon.info : starting pid 5082, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:29 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5082) exited. Scheduling for restart.
+Dec 20 09:58:29 A98SmartAudio_AA00 daemon.info : starting pid 5085, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:30 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5085) exited. Scheduling for restart.
+Dec 20 09:58:30 A98SmartAudio_AA00 daemon.info : starting pid 5087, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:31 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5087) exited. Scheduling for restart.
+Dec 20 09:58:31 A98SmartAudio_AA00 daemon.info : starting pid 5089, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:32 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5089) exited. Scheduling for restart.
+Dec 20 09:58:32 A98SmartAudio_AA00 daemon.info : starting pid 5093, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:33 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5093) exited. Scheduling for restart.
+Dec 20 09:58:33 A98SmartAudio_AA00 daemon.info : starting pid 5095, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:34 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5095) exited. Scheduling for restart.
+Dec 20 09:58:34 A98SmartAudio_AA00 daemon.info : starting pid 5097, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:35 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5097) exited. Scheduling for restart.
+Dec 20 09:58:35 A98SmartAudio_AA00 daemon.info : starting pid 5099, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:36 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5099) exited. Scheduling for restart.
+Dec 20 09:58:36 A98SmartAudio_AA00 daemon.info : starting pid 5101, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:37 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5101) exited. Scheduling for restart.
+Dec 20 09:58:37 A98SmartAudio_AA00 daemon.info : starting pid 5103, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:38 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5103) exited. Scheduling for restart.
+Dec 20 09:58:38 A98SmartAudio_AA00 daemon.info : starting pid 5105, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:39 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5105) exited. Scheduling for restart.
+Dec 20 09:58:39 A98SmartAudio_AA00 daemon.info : starting pid 5107, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:40 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5107) exited. Scheduling for restart.
+Dec 20 09:58:40 A98SmartAudio_AA00 daemon.info : starting pid 5109, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:41 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5109) exited. Scheduling for restart.
+Dec 20 09:58:41 A98SmartAudio_AA00 daemon.info : starting pid 5111, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:42 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5111) exited. Scheduling for restart.
+Dec 20 09:58:42 A98SmartAudio_AA00 daemon.info : starting pid 5113, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:43 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5113) exited. Scheduling for restart.
+Dec 20 09:58:43 A98SmartAudio_AA00 daemon.info : starting pid 5115, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:44 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5115) exited. Scheduling for restart.
+Dec 20 09:58:44 A98SmartAudio_AA00 daemon.info : starting pid 5117, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:45 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5117) exited. Scheduling for restart.
+Dec 20 09:58:45 A98SmartAudio_AA00 daemon.info : starting pid 5119, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:46 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5119) exited. Scheduling for restart.
+Dec 20 09:58:46 A98SmartAudio_AA00 daemon.info : starting pid 5121, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:47 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5121) exited. Scheduling for restart.
+Dec 20 09:58:47 A98SmartAudio_AA00 daemon.info : starting pid 5124, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:48 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5124) exited. Scheduling for restart.
+Dec 20 09:58:48 A98SmartAudio_AA00 daemon.info : starting pid 5126, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:49 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5126) exited. Scheduling for restart.
+Dec 20 09:58:49 A98SmartAudio_AA00 daemon.info : starting pid 5130, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:50 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5130) exited. Scheduling for restart.
+Dec 20 09:58:50 A98SmartAudio_AA00 daemon.info : starting pid 5132, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:51 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5132) exited. Scheduling for restart.
+Dec 20 09:58:51 A98SmartAudio_AA00 daemon.info : starting pid 5134, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:52 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5134) exited. Scheduling for restart.
+Dec 20 09:58:52 A98SmartAudio_AA00 daemon.info : starting pid 5136, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:53 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5136) exited. Scheduling for restart.
+Dec 20 09:58:53 A98SmartAudio_AA00 daemon.info : starting pid 5138, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:54 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5138) exited. Scheduling for restart.
+Dec 20 09:58:54 A98SmartAudio_AA00 daemon.info : starting pid 5140, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:55 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5140) exited. Scheduling for restart.
+Dec 20 09:58:55 A98SmartAudio_AA00 daemon.info : starting pid 5148, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:56 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5148) exited. Scheduling for restart.
+Dec 20 09:58:56 A98SmartAudio_AA00 daemon.info : starting pid 5150, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:57 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5150) exited. Scheduling for restart.
+Dec 20 09:58:57 A98SmartAudio_AA00 daemon.info : starting pid 5152, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:58 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5152) exited. Scheduling for restart.
+Dec 20 09:58:58 A98SmartAudio_AA00 daemon.info : starting pid 5166, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:58:59 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5166) exited. Scheduling for restart.
+Dec 20 09:58:59 A98SmartAudio_AA00 daemon.info : starting pid 5168, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:00 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5168) exited. Scheduling for restart.
+Dec 20 09:59:00 A98SmartAudio_AA00 daemon.info : starting pid 5170, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:01 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5170) exited. Scheduling for restart.
+Dec 20 09:59:01 A98SmartAudio_AA00 daemon.info : starting pid 5172, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:02 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5172) exited. Scheduling for restart.
+Dec 20 09:59:02 A98SmartAudio_AA00 daemon.info : starting pid 5174, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:03 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5174) exited. Scheduling for restart.
+Dec 20 09:59:03 A98SmartAudio_AA00 daemon.info : starting pid 5176, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:04 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5176) exited. Scheduling for restart.
+Dec 20 09:59:04 A98SmartAudio_AA00 daemon.info : starting pid 5179, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:05 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5179) exited. Scheduling for restart.
+Dec 20 09:59:05 A98SmartAudio_AA00 daemon.info : starting pid 5181, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:06 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5181) exited. Scheduling for restart.
+Dec 20 09:59:06 A98SmartAudio_AA00 daemon.info : starting pid 5183, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:07 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5183) exited. Scheduling for restart.
+Dec 20 09:59:07 A98SmartAudio_AA00 daemon.info : starting pid 5187, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:08 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5187) exited. Scheduling for restart.
+Dec 20 09:59:08 A98SmartAudio_AA00 daemon.info : starting pid 5189, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:09 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5189) exited. Scheduling for restart.
+Dec 20 09:59:09 A98SmartAudio_AA00 daemon.info : starting pid 5191, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:10 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5191) exited. Scheduling for restart.
+Dec 20 09:59:10 A98SmartAudio_AA00 daemon.info : starting pid 5193, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:11 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5193) exited. Scheduling for restart.
+Dec 20 09:59:11 A98SmartAudio_AA00 daemon.info : starting pid 5195, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:12 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5195) exited. Scheduling for restart.
+Dec 20 09:59:12 A98SmartAudio_AA00 daemon.info : starting pid 5197, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:13 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5197) exited. Scheduling for restart.
+Dec 20 09:59:13 A98SmartAudio_AA00 daemon.info : starting pid 5199, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:14 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5199) exited. Scheduling for restart.
+Dec 20 09:59:14 A98SmartAudio_AA00 daemon.info : starting pid 5201, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:15 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5201) exited. Scheduling for restart.
+Dec 20 09:59:15 A98SmartAudio_AA00 daemon.info : starting pid 5203, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:16 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5203) exited. Scheduling for restart.
+Dec 20 09:59:16 A98SmartAudio_AA00 daemon.info : starting pid 5205, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:17 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5205) exited. Scheduling for restart.
+Dec 20 09:59:17 A98SmartAudio_AA00 daemon.info : starting pid 5207, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:18 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5207) exited. Scheduling for restart.
+Dec 20 09:59:18 A98SmartAudio_AA00 daemon.info : starting pid 5209, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:19 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5209) exited. Scheduling for restart.
+Dec 20 09:59:19 A98SmartAudio_AA00 daemon.info : starting pid 5211, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:20 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5211) exited. Scheduling for restart.
+Dec 20 09:59:20 A98SmartAudio_AA00 daemon.info : starting pid 5213, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:21 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5213) exited. Scheduling for restart.
+Dec 20 09:59:21 A98SmartAudio_AA00 daemon.info : starting pid 5215, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:22 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5215) exited. Scheduling for restart.
+Dec 20 09:59:22 A98SmartAudio_AA00 daemon.info : starting pid 5218, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:23 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5218) exited. Scheduling for restart.
+Dec 20 09:59:23 A98SmartAudio_AA00 daemon.info : starting pid 5220, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:24 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5220) exited. Scheduling for restart.
+Dec 20 09:59:24 A98SmartAudio_AA00 daemon.info : starting pid 5224, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:26 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5224) exited. Scheduling for restart.
+Dec 20 09:59:26 A98SmartAudio_AA00 daemon.info : starting pid 5226, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:27 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5226) exited. Scheduling for restart.
+Dec 20 09:59:27 A98SmartAudio_AA00 daemon.info : starting pid 5228, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:28 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5228) exited. Scheduling for restart.
+Dec 20 09:59:28 A98SmartAudio_AA00 daemon.info : starting pid 5236, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:29 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5236) exited. Scheduling for restart.
+Dec 20 09:59:29 A98SmartAudio_AA00 daemon.info : starting pid 5238, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:30 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5238) exited. Scheduling for restart.
+Dec 20 09:59:30 A98SmartAudio_AA00 daemon.info : starting pid 5240, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:31 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5240) exited. Scheduling for restart.
+Dec 20 09:59:31 A98SmartAudio_AA00 daemon.info : starting pid 5248, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:32 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5248) exited. Scheduling for restart.
+Dec 20 09:59:32 A98SmartAudio_AA00 daemon.info : starting pid 5250, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:33 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5250) exited. Scheduling for restart.
+Dec 20 09:59:33 A98SmartAudio_AA00 daemon.info : starting pid 5252, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:34 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5252) exited. Scheduling for restart.
+Dec 20 09:59:34 A98SmartAudio_AA00 daemon.info : starting pid 5254, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:35 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5254) exited. Scheduling for restart.
+Dec 20 09:59:35 A98SmartAudio_AA00 daemon.info : starting pid 5261, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:36 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5261) exited. Scheduling for restart.
+Dec 20 09:59:36 A98SmartAudio_AA00 daemon.info : starting pid 5263, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:37 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5263) exited. Scheduling for restart.
+Dec 20 09:59:37 A98SmartAudio_AA00 daemon.info : starting pid 5265, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:38 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5265) exited. Scheduling for restart.
+Dec 20 09:59:38 A98SmartAudio_AA00 daemon.info : starting pid 5267, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:39 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5267) exited. Scheduling for restart.
+Dec 20 09:59:39 A98SmartAudio_AA00 daemon.info : starting pid 5269, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:40 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5269) exited. Scheduling for restart.
+Dec 20 09:59:40 A98SmartAudio_AA00 daemon.info : starting pid 5272, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:41 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5272) exited. Scheduling for restart.
+Dec 20 09:59:41 A98SmartAudio_AA00 daemon.info : starting pid 5274, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:42 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5274) exited. Scheduling for restart.
+Dec 20 09:59:42 A98SmartAudio_AA00 daemon.info : starting pid 5276, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:43 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5276) exited. Scheduling for restart.
+Dec 20 09:59:43 A98SmartAudio_AA00 daemon.info : starting pid 5280, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:44 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5280) exited. Scheduling for restart.
+Dec 20 09:59:44 A98SmartAudio_AA00 daemon.info : starting pid 5282, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:45 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5282) exited. Scheduling for restart.
+Dec 20 09:59:45 A98SmartAudio_AA00 daemon.info : starting pid 5284, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:46 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5284) exited. Scheduling for restart.
+Dec 20 09:59:46 A98SmartAudio_AA00 daemon.info : starting pid 5286, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:47 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5286) exited. Scheduling for restart.
+Dec 20 09:59:47 A98SmartAudio_AA00 daemon.info : starting pid 5288, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:48 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5288) exited. Scheduling for restart.
+Dec 20 09:59:48 A98SmartAudio_AA00 daemon.info : starting pid 5296, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:49 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5296) exited. Scheduling for restart.
+Dec 20 09:59:49 A98SmartAudio_AA00 daemon.info : starting pid 5298, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:50 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5298) exited. Scheduling for restart.
+Dec 20 09:59:50 A98SmartAudio_AA00 daemon.info : starting pid 5300, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:51 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5300) exited. Scheduling for restart.
+Dec 20 09:59:51 A98SmartAudio_AA00 daemon.info : starting pid 5302, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:52 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5302) exited. Scheduling for restart.
+Dec 20 09:59:52 A98SmartAudio_AA00 daemon.info : starting pid 5304, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:53 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5304) exited. Scheduling for restart.
+Dec 20 09:59:53 A98SmartAudio_AA00 daemon.info : starting pid 5306, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:54 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5306) exited. Scheduling for restart.
+Dec 20 09:59:54 A98SmartAudio_AA00 daemon.info : starting pid 5308, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:55 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5308) exited. Scheduling for restart.
+Dec 20 09:59:55 A98SmartAudio_AA00 daemon.info : starting pid 5310, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:56 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5310) exited. Scheduling for restart.
+Dec 20 09:59:56 A98SmartAudio_AA00 daemon.info : starting pid 5312, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:57 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5312) exited. Scheduling for restart.
+Dec 20 09:59:57 A98SmartAudio_AA00 daemon.info : starting pid 5504, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:58 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5504) exited. Scheduling for restart.
+Dec 20 09:59:58 A98SmartAudio_AA00 daemon.info : starting pid 5675, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 09:59:59 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5675) exited. Scheduling for restart.
+Dec 20 09:59:59 A98SmartAudio_AA00 daemon.info : starting pid 5723, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:00 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5723) exited. Scheduling for restart.
+Dec 20 10:00:00 A98SmartAudio_AA00 daemon.info : starting pid 5733, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:01 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5733) exited. Scheduling for restart.
+Dec 20 10:00:01 A98SmartAudio_AA00 daemon.info : starting pid 5735, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:02 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5735) exited. Scheduling for restart.
+Dec 20 10:00:02 A98SmartAudio_AA00 daemon.info : starting pid 5737, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:03 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5737) exited. Scheduling for restart.
+Dec 20 10:00:03 A98SmartAudio_AA00 daemon.info : starting pid 5740, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:04 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5740) exited. Scheduling for restart.
+Dec 20 10:00:04 A98SmartAudio_AA00 daemon.info : starting pid 5747, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:05 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5747) exited. Scheduling for restart.
+Dec 20 10:00:05 A98SmartAudio_AA00 daemon.info : starting pid 5749, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:06 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5749) exited. Scheduling for restart.
+Dec 20 10:00:06 A98SmartAudio_AA00 daemon.info : starting pid 5751, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:07 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5751) exited. Scheduling for restart.
+Dec 20 10:00:07 A98SmartAudio_AA00 daemon.info : starting pid 5753, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:08 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5753) exited. Scheduling for restart.
+Dec 20 10:00:08 A98SmartAudio_AA00 daemon.info : starting pid 5760, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:09 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5760) exited. Scheduling for restart.
+Dec 20 10:00:09 A98SmartAudio_AA00 daemon.info : starting pid 5762, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:10 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5762) exited. Scheduling for restart.
+Dec 20 10:00:10 A98SmartAudio_AA00 daemon.info : starting pid 5764, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:11 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5764) exited. Scheduling for restart.
+Dec 20 10:00:11 A98SmartAudio_AA00 daemon.info : starting pid 5766, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:12 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5766) exited. Scheduling for restart.
+Dec 20 10:00:12 A98SmartAudio_AA00 daemon.info : starting pid 5768, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:13 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5768) exited. Scheduling for restart.
+Dec 20 10:00:13 A98SmartAudio_AA00 daemon.info : starting pid 5770, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:14 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5770) exited. Scheduling for restart.
+Dec 20 10:00:14 A98SmartAudio_AA00 daemon.info : starting pid 5772, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:15 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5772) exited. Scheduling for restart.
+Dec 20 10:00:15 A98SmartAudio_AA00 daemon.info : starting pid 5775, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:16 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5775) exited. Scheduling for restart.
+Dec 20 10:00:16 A98SmartAudio_AA00 daemon.info : starting pid 5777, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:17 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5777) exited. Scheduling for restart.
+Dec 20 10:00:17 A98SmartAudio_AA00 daemon.info : starting pid 5781, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:18 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5781) exited. Scheduling for restart.
+Dec 20 10:00:18 A98SmartAudio_AA00 daemon.info : starting pid 5783, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:19 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5783) exited. Scheduling for restart.
+Dec 20 10:00:19 A98SmartAudio_AA00 daemon.info : starting pid 5785, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:20 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5785) exited. Scheduling for restart.
+Dec 20 10:00:20 A98SmartAudio_AA00 daemon.info : starting pid 5787, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:21 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5787) exited. Scheduling for restart.
+Dec 20 10:00:21 A98SmartAudio_AA00 daemon.info : starting pid 5789, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:22 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5789) exited. Scheduling for restart.
+Dec 20 10:00:22 A98SmartAudio_AA00 daemon.info : starting pid 5791, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:23 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5791) exited. Scheduling for restart.
+Dec 20 10:00:23 A98SmartAudio_AA00 daemon.info : starting pid 5793, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:24 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5793) exited. Scheduling for restart.
+Dec 20 10:00:24 A98SmartAudio_AA00 daemon.info : starting pid 5795, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:25 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5795) exited. Scheduling for restart.
+Dec 20 10:00:25 A98SmartAudio_AA00 daemon.info : starting pid 5797, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:26 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5797) exited. Scheduling for restart.
+Dec 20 10:00:26 A98SmartAudio_AA00 daemon.info : starting pid 5799, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:27 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5799) exited. Scheduling for restart.
+Dec 20 10:00:27 A98SmartAudio_AA00 daemon.info : starting pid 5801, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:28 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5801) exited. Scheduling for restart.
+Dec 20 10:00:28 A98SmartAudio_AA00 daemon.info : starting pid 5803, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:29 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5803) exited. Scheduling for restart.
+Dec 20 10:00:29 A98SmartAudio_AA00 daemon.info : starting pid 5805, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:30 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5805) exited. Scheduling for restart.
+Dec 20 10:00:30 A98SmartAudio_AA00 daemon.info : starting pid 5807, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:31 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5807) exited. Scheduling for restart.
+Dec 20 10:00:31 A98SmartAudio_AA00 daemon.info : starting pid 5809, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:32 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5809) exited. Scheduling for restart.
+Dec 20 10:00:32 A98SmartAudio_AA00 daemon.info : starting pid 5812, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:33 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5812) exited. Scheduling for restart.
+Dec 20 10:00:33 A98SmartAudio_AA00 daemon.info : starting pid 5814, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:34 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5814) exited. Scheduling for restart.
+Dec 20 10:00:34 A98SmartAudio_AA00 daemon.info : starting pid 5816, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'
+Dec 20 10:00:35 A98SmartAudio_AA00 daemon.info : process '/usr/sbin/telnetd -l /bin/sh' (pid 5816) exited. Scheduling for restart.
+Dec 20 10:00:35 A98SmartAudio_AA00 daemon.info : starting pid 5820, tty '/dev/null': '/usr/sbin/telnetd -l /bin/sh'

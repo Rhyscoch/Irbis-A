@@ -1,0 +1,413 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="no-cache">
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="Cache-Control" content="no-cache">
+<title>welcome</title>
+<meta name="viewport"
+	content="width=device-width, height=device-height, initial-scale=1, user-scalable=no" />
+<link rel="stylesheet" href="css/themes/default/jquery.mobile-1.4.5.min.css" />
+<style type="text/css">
+.statusTitle {
+	display: block;
+	width: 40%;
+	float: left;
+}
+
+.statusValue {
+	text-align: center;
+	display: block;
+	width: 60%;
+	float: left;
+}
+.TimeBegin {
+	text-align: left;
+	display:block;
+	width: 50%;
+	float: left;
+}
+
+.TimeEnd {
+	text-align: right;
+	display:block;
+	width: 50%;
+	float: left;
+}
+</style>
+
+<script src="js/jquery.min.js"></script>
+<script src="js/jquery.mobile-1.4.5.min.js"></script>
+<script src="script/i18n.js"></script>
+<script src="script/event.js"></script>
+<script src="script/ajax.js"></script>
+<script src="script/main.js"></script>
+</head>
+<body>
+
+	<div id="wifipage" data-role="page">
+		<div data-role="header">
+		    <h1 lang.key="login.message">&nbsp;</h1>
+		    <a href="#statusPage" data-transition="slide" data-icon="gear" ><span lang.key="login.signout">&nbsp;</span></a>
+		</div>
+		<div id="networkTitleDiv">
+		<ul>
+		<span id="networkState" lang.key="network.connect.state" >&nbsp;</span>
+		<span id="networkState_ssid">&nbsp;</span>
+		<span id="networkState_change">&nbsp;</span>
+		</ul>
+		</div>
+		
+		<div data-role="popup" id="popupDialog_wifi" data-overlay-theme="b" data-theme="b" data-dismissible="false" style="max-width:400px;">
+    <div role="main" class="ui-content">
+         <h3 class="ui-title" lang.key="wifi.connect.info">&nbsp;</h3>
+    <input id=wiFiPwd type=password placeholder="password" data-theme="a">
+        <a href="#" class="ui-button ui-corner-all ui-shadow ui-button-inline ui-button-b" data-rel="back"><span lang.key="pop.cancel">Cannel</span></a>
+        <a href="#" id="wiFiBtn" class="ui-button ui-corner-all ui-shadow ui-button-inline ui-button-b" data-rel="back" data-transition="flow"><span lang.key="network.connect">Connect</span></a>
+    </div>
+	 </div>
+		<div class="ui-corner-all" id="popupDialog_wifi_alert" style="max-width: 400px" data-role="popup" data-overlay-theme="a" data-theme="c">
+	   	<a href="#" data-rel="back" data-role="button" data-theme="a" data-icon="delete" data-iconpos="notext" class="ui-btn-right">Close</a>
+	    <div class="ui-corner-bottom ui-content" data-role="content" data-theme="d" align="center">
+	        <h3 class="ui-title" id="alert_wifi">&nbsp;</h3>
+	        <a href="#" data-role="button" data-rel="back" data-theme="c" data-inline="true"><span lang.key="pop.ok">Ok</span></a>
+	    </div>
+		</div>
+		<div data-role="content" class="content">
+		<ul id="networkContentDiv"  data-role="listview" data-inset="true" data-filter="false">
+		<li data-role="list-divider"><span data-inline="true" id="networkMessage" lang.key="network.selectinfo">&nbsp;</span><span id="Refreshwifi" class="ui-btn ui-shadow ui-corner-all ui-icon-refresh ui-btn-icon-notext ui-btn-inline"></span></li>
+		<li id="wifi_pa1" style="display:none;"><a id="wifi1" href="#"><span id="wifi_sign1" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid1">&nbsp;</span></a></li>
+		<li id="wifi_pa2" style="display:none;"><a id="wifi2" href="#"><span id="wifi_sign2" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid2">&nbsp;</span></a></li>
+		<li id="wifi_pa3" style="display:none;"><a id="wifi3" href="#"><span id="wifi_sign3" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid3">&nbsp;</span></a></li>
+    <li id="wifi_pa4" style="display:none;"><a id="wifi4" href="#"><span id="wifi_sign4" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid4">&nbsp;</span></a></li>
+    <li id="wifi_pa5" style="display:none;"><a id="wifi5" href="#"><span id="wifi_sign5" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid5">&nbsp;</span></a></li>
+    <li id="wifi_pa6" style="display:none;"><a id="wifi6" href="#"><span id="wifi_sign6" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid6">&nbsp;</span></a></li>
+    <li id="wifi_pa7" style="display:none;"><a id="wifi7" href="#"><span id="wifi_sign7" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid7">&nbsp;</span></a></li>
+    <li id="wifi_pa8" style="display:none;"><a id="wifi8" href="#"><span id="wifi_sign8" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid8">&nbsp;</span></a></li>
+    <li id="wifi_pa9" style="display:none;"><a id="wifi9" href="#"><span id="wifi_sign9" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid9">&nbsp;</span></a></li>
+    <li id="wifi_pa10" style="display:none;"><a id="wifi10" href="#"><span id="wifi_sign10" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid10">&nbsp;</span></a></li>
+    <li id="wifi_pa11" style="display:none;"><a id="wifi11" href="#"><span id="wifi_sign11" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid11">&nbsp;</span></a></li>
+    <li id="wifi_pa12" style="display:none;"><a id="wifi12" href="#"><span id="wifi_sign12" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid12">&nbsp;</span></a></li>
+    <li id="wifi_pa13" style="display:none;"><a id="wifi13" href="#"><span id="wifi_sign13" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid13">&nbsp;</span></a></li>
+    <li id="wifi_pa14" style="display:none;"><a id="wifi14" href="#"><span id="wifi_sign14" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid14">&nbsp;</span></a></li>
+    <li id="wifi_pa15" style="display:none;"><a id="wifi15" href="#"><span id="wifi_sign15" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid15">&nbsp;</span></a></li>
+		<li id="wifi_pa16" style="display:none;"><a id="wifi16" href="#"><span id="wifi_sign16" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid16">&nbsp;</span></a></li>
+		<li id="wifi_pa17" style="display:none;"><a id="wifi17" href="#"><span id="wifi_sign17" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid17">&nbsp;</span></a></li>
+		<li id="wifi_pa18" style="display:none;"><a id="wifi18" href="#"><span id="wifi_sign18" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid18">&nbsp;</span></a></li>
+    <li id="wifi_pa19" style="display:none;"><a id="wifi19" href="#"><span id="wifi_sign19" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid19">&nbsp;</span></a></li>
+    <li id="wifi_pa20" style="display:none;"><a id="wifi20" href="#"><span id="wifi_sign20" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid20">&nbsp;</span></a></li>
+    <li id="wifi_pa21" style="display:none;"><a id="wifi21" href="#"><span id="wifi_sign21" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid21">&nbsp;</span></a></li>
+    <li id="wifi_pa22" style="display:none;"><a id="wifi22" href="#"><span id="wifi_sign22" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid22">&nbsp;</span></a></li>
+    <li id="wifi_pa23" style="display:none;"><a id="wifi23" href="#"><span id="wifi_sign23" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid23">&nbsp;</span></a></li>
+    <li id="wifi_pa24" style="display:none;"><a id="wifi24" href="#"><span id="wifi_sign24" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid24">&nbsp;</span></a></li>
+    <li id="wifi_pa25" style="display:none;"><a id="wifi25" href="#"><span id="wifi_sign25" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid25">&nbsp;</span></a></li>
+    <li id="wifi_pa26" style="display:none;"><a id="wifi26" href="#"><span id="wifi_sign26" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid26">&nbsp;</span></a></li>
+    <li id="wifi_pa27" style="display:none;"><a id="wifi27" href="#"><span id="wifi_sign27" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid27">&nbsp;</span></a></li>
+    <li id="wifi_pa28" style="display:none;"><a id="wifi28" href="#"><span id="wifi_sign28" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid28">&nbsp;</span></a></li>
+    <li id="wifi_pa29" style="display:none;"><a id="wifi29" href="#"><span id="wifi_sign29" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid29">&nbsp;</span></a></li>
+    <li id="wifi_pa30" style="display:none;"><a id="wifi30" href="#"><span id="wifi_sign30" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid30">&nbsp;</span></a></li>
+    <li id="wifi_pa31" style="display:none;"><a id="wifi31" href="#"><span id="wifi_sign31" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid31">&nbsp;</span></a></li>
+    <li id="wifi_pa32" style="display:none;"><a id="wifi32" href="#"><span id="wifi_sign32" style="margin-right:10px; display: inline-block; background-image: url(style/image/wifilist.png); background-position: -180px 0px ;width: 45px; height: 30px; vertical-align: middle;"></span>
+         <span id="wifi_ssid32">&nbsp;</span></a></li>
+		</ul>
+		</div>
+	</div>
+	
+	<div id="statusPage" data-role="page">
+		<div data-role="header">
+			 <a href="#wifipage" data-transition="slide" data-icon="home"><span lang.key="home.button">&nbsp;</span></a>
+			<h1><span lang.key="common.status">&nbsp;</span></h1>
+			<div data-role="navbar">
+	        <ul>
+	        		<li><a href="#statusPage" class="ui-btn-active ui-state-persist" data-theme="b"><span lang.key="common.status">&nbsp;</span></a></li>
+	            <li><a href="#systemPage" class="ui-btn-active ui-state-persist" data-theme="b"><span lang.key="common.system">&nbsp;</span></a></li>
+	            <li><a href="#networkPage"class="ui-btn-active ui-state-persist" data-theme="b"><span lang.key="common.network">&nbsp;</span></a></li>
+	        </ul>
+	    </div>
+		</div>
+		<div data-role="collapsible-set">
+			<div data-role="collapsible" data-collapsed="false">
+				<h3><span lang.key="system.version">&nbsp;</span></h3>
+			  <ul data-role="listview">
+				<li><span class="statusTitle" index="0" lang.key="status.wifissid">SSID:</span> 
+					<span class="statusValue" id="SSIDValue" index="0">&nbsp;</span>
+					<div style="clear: both;"></div></li>
+				<li><span class="statusTitle" index="0" lang.key="status.devicename">Device Name:</span> 
+					<span class="statusValue" id="deviceNameValue" index="0">&nbsp;</span>
+					<div style="clear: both;"></div></li>
+				<li><span class="statusTitle" index="0" lang.key="status.language">Language:</span> 
+					<span class="statusValue" id="languageValue" index="0">&nbsp;</span>
+					<div style="clear: both;"></div></li>
+				<li><span class="statusTitle" index="0" lang.key="status.firmver">Firmware Version:</span>
+					<span class="statusValue" id="firmVersionValue" index="0">&nbsp;</span>
+					<div style="clear: both;"></div></li>
+				<li><span class="statusTitle" index="0" lang.key="status.dspver">ASR DSP Version:</span>
+					<span class="statusValue" id="ASRDSPVersionValue" index="0">&nbsp;</span>
+					<div style="clear: both;"></div></li>
+				<li><span class="statusTitle" index="0" lang.key="status.releasedate">Release Date:</span> 
+					<span class="statusValue" id="ReleaseDateValue" index="0">&nbsp;</span>
+					<div style="clear: both;"></div></li>
+				<li><span class="statusTitle" index="0" lang.key="status.uuid">UUID:</span> <span
+					class="statusValue" id="UUIDValue" index="0">&nbsp;</span>
+					<div style="clear: both;"></div></li>
+			 <li><span class="statusTitle" index="0">ConfigMD5:</span> <span
+					class="statusValue" id="ConfigMD5Value" index="0">&nbsp;</span>
+					<div style="clear: both;"></div></li>
+				<li><span class="statusTitle" index="0" lang.key="status.apcli0">Apcli0 IP:</span> 
+					<span class="statusValue" id="Apcli0Value" index="0">&nbsp;</span>
+					<div style="clear: both;"></div></li>
+				<li><span class="statusTitle" index="0" lang.key="status.eth2">Eth2 IP:</span>
+					<span class="statusValue" id="Eth2Value" index="0">&nbsp;</span>
+					<div style="clear: both;"></div></li>
+			  </ul>
+			</div>
+		</div>
+	</div>
+	
+	
+
+	<div id="systemPage" data-role="page">
+	  <div data-role="header">
+		 <a href="#wifipage" data-transition="slide" data-icon="home"><span lang.key="home.button">&nbsp;</span></a>
+			 <h1><span lang.key="common.system">&nbsp;</span></h1>
+	  	 <a href="#" data-icon="check" id="system_save" ><span lang.key="common.save" >&nbsp;</span></a>
+		 	<div data-role="navbar" >
+	        <ul>
+	        		<li><a href="#statusPage" class="ui-btn-active ui-state-persist" data-theme="b"><span lang.key="common.status">&nbsp;</span></a></li>
+	            <li><a href="#systemPage" class="ui-btn-active ui-state-persist" data-theme="b"><span lang.key="common.system">&nbsp;</span></a></li>
+	            <li><a href="#networkPage" class="ui-btn-active ui-state-persist" data-theme="b"><span lang.key="common.network">&nbsp;</span></a></li>
+	        </ul>
+	     </div>
+	  </div>
+	  <div data-role="collapsible-set">
+	   <div data-role="collapsible">
+	   	<h3><span lang.key="system.language">&nbsp;</span></h3>
+			<ul data-role="listview">
+				<li style="display:none">
+					<span style="display:inline-block;width:30%">
+						<label for="deviceNameInput" id="deviceNameSpan">&nbsp;</label>
+					</span>
+					<span> 
+						<input id="deviceNameInput" index="0" disabled="disabled" style="display:inline; width:65%; text-align: center" /> 
+					</span>
+				</li>
+				<li>
+					<span style="display:inline-block;width:100%">
+						<label for="languageSelect" id="languageSpan" lang.key="system.language">&nbsp;</label>
+					</span> 
+					<span> 
+						<select id="languageSelect" index="0" onchange="onChangeLanguage()">
+							  <option value ="en_us" lang.key="system.lang_en">English</option>
+							  <option value ="zh_cn" lang.key="system.lang_cn">Chinese</option>	
+							  <option value ="Ger_de" lang.key="system.Deuts_ch">Deutsch</option>
+							  <option value ="spanish" lang.key="system.spanish">Español</option>	
+							  <option value ="french" lang.key="system.french">Français</option>
+							  <option value ="italian" lang.key="system.italian">Italiano</option>			
+						</select> 
+					</span>
+				</li>
+			</ul>
+		</div>
+		<div data-role="collapsible">
+			<h3><span lang.key="system.opeation" >&nbsp;</span></h3>
+			<ul data-role="listview" > 
+				<li>
+				 <input type="button" id ="RestoreDefaultSetting" special.key= "button" lang.key="status.restore" value="Restore Factory Settings">
+				</li>
+			</ul>
+		</div>
+		
+				
+		<div class="ui-corner-all" id="popupDialog_restore" style="max-width: 400px" data-role="popup" data-overlay-theme="a" data-theme="c" data-dismissible="false">
+	    <div class="ui-corner-top" data-role="header" data-theme="a">
+	        <h1 id="title_alert" lang.key="pop.dliage">test</h1>
+	    </div>
+	    <div class="ui-corner-bottom ui-content" data-role="content" data-theme="d" align="center">
+	        <h3 class="ui-title" lang.key="system_restore.factory">&nbsp;</h3>
+	        <a href="#" data-role="button" data-rel="back" data-theme="c" data-inline="true"><span  lang.key="pop.cancel">Cancel</span></a>
+	        <a href="#" data-role="button" data-transition="flow" data-rel="back" data-theme="b" data-inline="true" id="status_restore"><span lang.key="pop.ok">OK</span></a>
+	    </div>
+		</div>
+		<div class="ui-corner-all" id="popupDialog_nofile" style="max-width: 400px" data-role="popup" data-overlay-theme="a" data-theme="c" data-dismissible="false">
+	    <div class="ui-corner-top" data-role="header" data-theme="a">
+	        <h1 id="title_alert" lang.key="pop.dliage">test</h1>
+	    </div>
+	    <div class="ui-corner-bottom ui-content" data-role="content" data-theme="d" align="center">
+	        <h3 class="ui-title" lang.key="online_update_alert.file">&nbsp;</h3>
+	        <a href="#" data-role="button" data-transition="flow" data-rel="back" data-theme="b" data-inline="true"><span lang.key="pop.ok">OK</span></a>
+	    </div>
+		</div>
+		
+		<div class="ui-corner-all" id="popupDialog_burningFirmware" style="max-width: 400px" data-role="popup" data-overlay-theme="a" data-theme="c" data-dismissible="false">
+		    <div class="ui-corner-top" data-role="header" data-theme="a">
+		        <h1 id="title_alert" lang.key="pop.dliage">test</h1>
+		    </div>
+		    <div class="ui-corner-bottom ui-content" data-role="content" data-theme="d" align="center">
+		        <h3 class="ui-title" id="popupDialog_burningFirmware_text" lang.key="online_update_alert.burning">&nbsp;</h3>
+		    </div>
+		</div>
+
+		<div class="ui-corner-all" id="popupDialog_restoreFactoryResult" style="max-width: 400px" data-role="popup" data-overlay-theme="a" data-theme="c" data-dismissible="false">
+		    <div class="ui-corner-top" data-role="header" data-theme="a">
+		        <h1 id="title_alert" lang.key="pop.dliage">test</h1>
+		    </div>
+		    <div class="ui-corner-bottom ui-content" data-role="content" data-theme="d" align="center">
+		        <h3 class="ui-title" id="popupDialog_restoreFactoryResult_text">&nbsp;</h3>
+		    </div>
+		</div>
+		
+				
+		<div class="ui-corner-all" id="popupDialog_finish" style="max-width: 400px" data-role="popup" data-overlay-theme="a" data-theme="c" data-dismissible="false">
+	    <div class="ui-corner-top" data-role="header" data-theme="a">
+	        <h1 id="title_alert" lang.key="pop.dliage">test</h1>
+	    </div>
+	    <div class="ui-corner-bottom ui-content" data-role="content" data-theme="d" align="center">
+	        <h3 class="ui-title" lang.key="online_update_alert.firmfinish">&nbsp;</h3>
+	        <a href="#" data-role="button" data-transition="flow" data-rel="back" data-theme="b" data-inline="true" lang.key="pop.ok">OK</a>
+	    </div>
+		</div>
+		<div data-role="collapsible" data-collapsed="false">
+				<h3 ><span lang.key="system.update">&nbsp;</span></h3>
+					<ul data-role="listview" >
+				<li data-theme="d"><span id="firmware_update" lang.key="status.upgrade">&nbsp;</span></li>
+				<div>
+					<form name="UploadFirmware" id="onlineup_upform" action="/cgi-bin/upload.cgi" target="uploadFrame" method="post" enctype="multipart/form-data">
+						<input name="filename" size="20" maxlength="256" type="file" id="onlineup_upform_inputbox"/>
+						<input value="Apply" id="update_apply" special.key= "button" lang.key="common.apply" id="uploadFWApply" name="UploadFirmwareSubmit" type="button" onClick="return wiimu_uploadFirmwareCheck();"/>
+					</form>
+				</div>
+				<div style="display:none">
+					<iframe id="uploadFrame" name="uploadFrame"></iframe>
+				</div>
+				<div id="firmware_update_process" style="text-align: center; visibility:hidden">
+				<span id= "firmware_upload_percent">0%</span>
+				<table id="firm_update_show_bar" width="0" bgcolor="#999999" border="0">
+				  <td >&nbsp;</td>
+				</table>
+				<br/>
+				</div>
+				<div id="firmware.update.div">
+		    	<li data-theme="d"><span id="firmware_update_online" lang.key="status.upgrade.online">&nbsp;</span></li>
+				<p>
+				 <div id="div_online_update">
+ 				  <input type="button" special.key= "button" id="online_update" lang.key="online.upgrade" value="Online update">
+    			 </div>
+				</p>
+				<div style="text-align: center;">
+					<span id= "firmware_update_status">&nbsp;</span>
+				</div>
+			</ul>
+			</div>
+		</div>
+	</div>
+</div>
+	<div id="networkPage" data-role="page">
+	   <div data-role="header">
+			 <a href="#wifipage" data-transition="slide" data-icon="home"><span lang.key="home.button">&nbsp;</span></a>
+			 <h1 lang.key="common.network">&nbsp;</h1>
+		   <a href="#" data-icon="check" id="network_save"><span lang.key="common.save" >&nbsp;</span></a>
+ 	   <div data-role="navbar" >
+	        <ul>
+	        		<li><a href="#statusPage" class="ui-btn-active ui-state-persist" data-theme="b"><span lang.key="common.status">&nbsp;</span></a></li>
+	            <li><a href="#systemPage" class="ui-btn-active ui-state-persist" data-theme="b"><span lang.key="common.system">&nbsp;</span></a></li>
+	            <li><a href="#networkPage" class="ui-btn-active ui-state-persist" data-theme="b"><span lang.key="common.network">&nbsp;</span></a></li>
+	        </ul>
+	   </div>
+		</div>
+		<div class="ui-corner-all" id="popupDialog_network" style="max-width: 400px" data-role="popup" data-overlay-theme="a" data-theme="c" data-dismissible="false">
+		    <div class="ui-corner-top" data-role="header" data-theme="a">
+		        <h1 id="title_alert" lang.key="pop.dliage">test</h1>
+		    </div>
+	
+		    <div class="ui-corner-bottom ui-content" data-role="content" data-theme="d" align="center">
+		        <h3 class="ui-title"><span id="alert_network">&nbsp;</span></h3>
+		        <a href="#" data-role="button" data-transition="flow" data-rel="back" data-theme="b" data-inline="true"><span lang.key="pop.ok">OK</span></a>
+		    </div>
+		</div>
+
+		<div class="ui-corner-all" id="popupDialog_changessid_ok" style="max-width: 400px" data-role="popup" data-overlay-theme="a" data-theme="c" data-dismissible="false">
+		    <div class="ui-corner-top" data-role="header" data-theme="a">
+		        <h1 id="title_alert" lang.key="pop.dliage">test</h1>
+		    </div>
+		    <div class="ui-corner-bottom ui-content" data-role="content" data-theme="d" align="center">
+		        <h3 class="ui-title" id="alert_network_changessid_ok">&nbsp;</h3>
+		    </div>
+		</div>
+
+		<div class="ui-corner-all" id="popupDialog_changessid" style="max-width: 400px" data-role="popup" data-overlay-theme="a" data-theme="c" data-dismissible="false">
+		    <div class="ui-corner-top" data-role="header" data-theme="a">
+		        <h1 id="title_alert" lang.key="pop.dliage">test</h1>
+		    </div>
+		    <div class="ui-corner-bottom ui-content" data-role="content" data-theme="d" align="center">
+		        <h3 class="ui-title" lang.key="status.changessid">&nbsp;</h3>
+		        <input id="textNewSSID"> </input>
+		        <a href="#" data-role="button" data-rel="back" data-theme="c" data-inline="true"><span lang.key="pop.cancel">Cancel</span></a>
+		        <a href="#" data-role="button" data-transition="flow" data-rel="back" data-theme="b" data-inline="true" id="status_changessid" onclick="onSetNewSSID()"><span lang.key="pop.ok" >OK</span></a>
+		     </div>
+		 </div>
+
+		<div data-role="content" class="content">
+			<ul data-role="listview" data-theme="d">
+				<li>
+					<span style="display:inline-block;width:100%">
+						<label for="wirelessSecuritySelect" id="wirelessSecuritySpan" lang.key="network.wirelessSecuritySelect">WirelessSecuritySelect&nbsp;</label>
+					</span> 
+					<span> 
+						<select id="wirelessSecuritySelect" index="0" data-native-menu="false" onclick="onChangeSecuritySelect()" onchange="onChangeSecuritySelect()">
+							  <option value ="open" lang.key="wifi.securite.open">Open</option>
+							  <option value ="wpapsk">WPA PSK</option>
+						</select> 
+					</span>
+				</li>
+				<li id="divwirelessPasswordInput">
+					<span style="display:inline-block;width:50%">
+						<label for="wirelessPasswordInput" id="wirelessPasswordSpan" lang.key="network.wirelessSecurityPassword">&nbsp;</label>
+					</span>
+					<span> 
+						<input id="wirelessPasswordInputInput" type="password" style="display:inline; width:100%; text-align: center" /> 
+					</span>
+				</li>
+
+				<li>
+			 			<input id="change_ssid" type="button" special.key= "button" lang.key="status.changessid" value="Change SSID">
+				</li>
+				
+			</ul>
+		</div>
+	</div>
+
+</body>
+</html>

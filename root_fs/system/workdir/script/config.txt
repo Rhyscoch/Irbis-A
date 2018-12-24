@@ -1,0 +1,8 @@
+disable_proptx=0
+ccode=US
+regrev=988
+use_rxchain=1
+tcpack_sup_mode=1
+tx_in_rx=0
+dhd_rxbound=64
+dhd_slpauto=0

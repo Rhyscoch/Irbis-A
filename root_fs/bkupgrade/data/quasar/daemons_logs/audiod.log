@@ -1,0 +1,6 @@
+2018-Sep-30 00:00:00.964 <WARN> - Linkplay VQE library does not support: Wakeup - /home/palber/work/quasar/daemons/src/audiod/linkplay_a98/LinkplayA98AudioCapture.cc:177 [0xf7157010]
+2018-Sep-30 00:00:00.967 <INFO> - Linkplay A98 VQE output format: 
+	Bits per sample: 16
+	Sample rate: 16000
+	Channles: 2 - /home/palber/work/quasar/daemons/src/audiod/linkplay_a98/LinkplayA98AudioCapture.cc:190 [0xf7157010]
+2018-Sep-30 00:00:01.006 <INFO> - Microphones unmuted - /home/palber/work/quasar/daemons/src/audiod/audiod.cc:238 [0xee1ff440]

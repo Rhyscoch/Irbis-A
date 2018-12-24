@@ -1,0 +1,110 @@
+{
+    "nodes": [
+        {
+            "name": "main",
+            "root": ".",
+            "tasks": [
+                {
+                    "name": "audiod",
+                    "delay" : 5,
+                    "root": ".",
+                    "path": "/system/vendor/quasar/audiod",
+                    "ldLibraryPrefix": "/system/vendor/quasar/override_libs",
+                    "arg": [
+                    ],
+                    "log": false
+                },
+                {
+                    "name": "sound_initd",
+                    "delay": 5,
+                    "root": ".",
+                    "path": "/system/vendor/quasar/sound_initd",
+                    "arg": [
+                    ],
+                    "log": false
+                },
+                {
+                    "name": "updatesd",
+                    "delay" : 5,
+                    "root": ".",
+                    "path": "/system/vendor/quasar/updatesd",
+                    "arg": [
+                    ],
+                    "log": false
+                },
+                {
+                    "name": "authd",
+                    "delay" : 5,
+                    "root": ".",
+                    "path": "/system/vendor/quasar/authd",
+                    "arg": [
+                    ],
+                    "log": false
+                },
+                {
+                    "name": "firstrund",
+                    "delay" : 5,
+                    "root": ".",
+                    "path": "/system/vendor/quasar/firstrund",
+                    "arg": [
+                    ],
+                    "log": false
+                },
+                {
+                    "name": "pushd",
+                    "delay" : 5,
+                    "root": ".",
+                    "path": "/system/vendor/quasar/pushd",
+                    "arg": [
+                    ],
+                    "log": false
+                },
+                {
+                    "name": "wifid",
+                    "delay" : 5,
+                    "root": ".",
+                    "path": "/system/vendor/quasar/wifid",
+                    "arg": [
+                    ],
+                    "log": false
+                },
+                {
+                    "name": "soundd",
+                    "delay" : 5,
+                    "root": ".",
+                    "path": "/system/vendor/quasar/playbackd",
+                    "arg": [
+                    ],
+                    "log": false
+                },
+                {
+                    "name": "ledd",
+                    "delay" : 5,
+                    "root": ".",
+                    "path": "/system/vendor/quasar/ledd",
+                    "arg": [
+                    ],
+                    "log": false
+                },
+                {
+                    "name": "metricad",
+                    "delay" : 5,
+                    "root": ".",
+                    "path": "/system/vendor/quasar/metricad",
+                    "arg": [
+                    ],
+                    "log": false
+                },
+                {
+                    "name": "buttonsd",
+                    "delay" : 5,
+                    "root": ".",
+                    "path": "/system/vendor/quasar/buttonsd",
+                    "arg": [
+                    ],
+                    "log": false
+                }
+            ]
+        }
+    ]
+}

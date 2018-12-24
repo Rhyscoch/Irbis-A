@@ -1,0 +1,55 @@
+  <default remote="wiimu" revision="A98"/>
+firmware/applications
+================================================================
+commit b4fc1beaef8cef4647262a94fa05d02d535e14e1
+Author: vincent.zhu <vincent.zhu@wiimu.com>
+Date:   Tue Oct 30 10:04:44 2018 +0800
+
+    [other] yandex update the resource
+    
+    Change-Id: I36b18f0851eb8442ce85159fe828f02dddcec1fb
+firmware/prebuilt
+================================================================
+commit 22bfd06167d876de8019702837d7ced1be5ec8de
+Author: vincent.zhu <vincent.zhu@wiimu.com>
+Date:   Tue Oct 9 11:01:03 2018 +0800
+
+    [other] add seperate img tar release
+    
+    Change-Id: I75e9a285cefb8d0adafd4c2cd0d021af3dc67d85
+firmware/device_ids
+================================================================
+commit e7bb17dbb1f15fbd4367bd1a7c65c9af3ef2ece3
+Author: fawei.wu <fawei.wu@linkplay.com>
+Date:   Mon Oct 22 15:49:14 2018 +0800
+
+    [other] add device ids for  MD43917\MD44300\A16\MS30A\T2328A\KLIPAD_788
+    
+    Change-Id: I41f1716b33feabedbd0dc38111f17fdfd72d41db
+firmware/middleware
+================================================================
+commit 6aeda4da02fc33da9fe8584f46c399544507fa2f
+Author: vincent.zhu <vincent.zhu@wiimu.com>
+Date:   Tue Oct 30 09:56:23 2018 +0800
+
+    [other] update the release of soft preprocess library
+    
+    Change-Id: I8cf2eb046d9f8145f05a254e73b53360de4ad9e3
+firmware/platform-amlogic-a111
+================================================================
+commit b3ee067469e43136267904927c1e0372bc95df8a
+Author: Jason.Fang <jianjiang.fang@linkplay.com>
+Date:   Thu Aug 2 20:21:29 2018 +0800
+
+    [other] Fix GPIODV_29 be request issue, AK7755 should be set to optional.
+    
+    Change-Id: Icf6b438b41fcd4f92c25ae02476721a2061a787c
+firmware/platform-amlogic-a113
+================================================================
+commit a0ba4ab65c64dae87e0677714c6e7dcb74aff003
+Author: shenfei.wu <shenfei.wu@linkplay.com>
+Date:   Sun Oct 28 20:22:23 2018 -0700
+
+    [YANDEX] modify gpio_keypad  driver.
+    
+    Change-Id: Iaa1e6b4e4e1a6f7c2873cfec4c68f662b6c57046

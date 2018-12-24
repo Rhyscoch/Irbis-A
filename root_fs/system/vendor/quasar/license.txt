@@ -1,0 +1,9 @@
+Horizon Robotic License.
+
+Auth to SV2018-R08_action3605_production_test_20180821
+
+Auth Expire At 2118-07-28
+
+Do not modify this file. Its entire content, including the plain text section, is used by the activation manager . 
+
+MEkWvJA2x9P85BcX8Dv6jw8nACg2aXaWiBTo2M0bICdp8E+BtlS5JjK/KWwThnCh6r8+KUN3BEJaspvD8BPhpPewIa5PApKjGo9JvL4IlC1AKuLRj8yJnmVXg/ZVXYjF0vrCQP6VLjCdZN7vKbKptVOSBtbODhAJ1P2YHM0aA1Q101uqHBVAG+gb1RnaichH6l1ei6LAdLCNS35a3ZXmWWI7s/ZBsLLL7qSQsZ9kYYVYjOyfimpsEGzICqV52cx0G2KPM8iLHCxF9GWoFnIdak2y1VVD+Tn7mtshkIWDFueID7AaxrC6RkNblMR7/W94NsgRBGggF2JV5RaIpSUptw==

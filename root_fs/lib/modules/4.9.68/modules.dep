@@ -1,0 +1,6 @@
+kernel/fs/efivarfs/efivarfs.ko:
+kernel/drivers/bluetooth/hci_uart.ko: kernel/drivers/bluetooth/btqca.ko
+kernel/drivers/bluetooth/btqca.ko:
+kernel/sound/drivers/snd-aloop.ko:
+kernel/net/bridge/br_netfilter.ko:
+kernel/broadcom/wifi/dhd.ko:

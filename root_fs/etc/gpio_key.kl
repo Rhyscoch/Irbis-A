@@ -1,0 +1,11 @@
+# This is map table for buildroot, use this define the key map for buildroot system
+
+# type                  key
+talk                    116
+VolumeUp                115
+VolumeDown              114
+mute                    113
+btpair                  1113
+wpssetup                3113
+factoryreset            1116
+

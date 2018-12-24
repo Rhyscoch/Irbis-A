@@ -1,0 +1,53 @@
+#!/bin/sh
+
+# udhcpc script edited by Tim Riker <Tim@Rikers.org>
+# modified for Apple Airplay Multicast DNS
+
+[ -z "$1" ] && echo "Error: should be called from udhcpc" && exit 1
+
+RESOLV_CONF="/tmp/resolv.conf"
+[ -n "$broadcast" ] && BROADCAST="broadcast $broadcast"
+[ -n "$subnet" ] && NETMASK="netmask $subnet"
+echo $1 $ip > /tmp/mv_udhcpc_action
+
+case "$1" in
+	deconfig)
+		/sbin/ifconfig $interface up
+		/sbin/ifconfig $interface 0.0.0.0
+		;;
+
+	renew|bound)
+		/sbin/ifconfig $interface $ip $BROADCAST $NETMASK
+
+		if [ -n "$router" ] ; then
+			echo "deleting routers"
+                        while route del default gw 0.0.0.0 dev $interface ; do
+				:
+			done
+
+                        metric=0
+			for i in $router ; do
+				route add default gw $i dev $interface
+			done
+		fi
+
+                echo -n > $RESOLV_CONF
+
+		# add 127.0.0.1 for dnsmasq
+		#echo nameserver 127.0.0.1 >> $RESOLV_CONF
+
+                [ -n "$domain" ] && echo search $domain >> $RESOLV_CONF
+		for i in $dns ; do
+			echo adding dns $i
+                        echo nameserver $i >> $RESOLV_CONF
+		done
+
+		# add some static dns address for works better
+		#echo nameserver 8.8.8.8 >> $RESOLV_CONF # from google
+		#echo nameserver 114.114.114.114 >> $RESOLV_CONF # from 114dns
+		#echo nameserver 223.5.5.5 >> $RESOLV_CONF # from alibaba
+		#echo nameserver 180.76.76.76 >> $RESOLV_CONF # from baidu
+		;;
+esac
+
+exit 0

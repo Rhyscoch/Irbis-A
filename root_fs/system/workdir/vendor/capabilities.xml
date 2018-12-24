@@ -1,0 +1,138 @@
+{
+    "envelopeVersion": "20160207",
+    "capabilities": [
+        {
+            "type": "AlexaInterface",
+            "interface": "Alerts",
+            "version": "1.3",
+            "configurations": {
+                "maximumAlerts": {
+                    "overall":60,
+                    "alarms":30,
+                    "timers":30
+                }
+            }
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "AudioActivityTracker",
+            "version": "1.0"
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "AudioPlayer",
+            "version": "1.0"
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "Bluetooth",
+            "version": "1.0"
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "Alexa.InputController",
+            "version": "3.0",
+            "configurations": {  
+                "inputs": [  
+                    {
+                        "name": "WiFi",
+                        "friendlyNames": ["WIFI", "WIreless-FIdelity"]
+                    },
+                    {
+                        "name": "UDisk",
+                        "friendlyNames": ["WiFi Udisk", "U Disk"]
+                    },
+                    {
+                        "name": "AUX",
+                        "friendlyNames": ["Line In", "Auxiliary port", "Auxiliary"]
+                    },
+                    {
+                        "name": "Bluetooth",
+                        "friendlyNames": ["Bluetooth", "BT"]
+                    },
+                    {
+                        "name": "Mirror",
+                        "friendlyNames": ["Mirror", "Mirror"]
+                    },
+                    {
+                        "name": "Optical",
+                        "friendlyNames": ["Optical", "Optical"]
+                    },
+                    {
+                        "name": "RCA", 
+                        "friendlyNames": ["Radio Corporation of American", "AV Input"]
+                    },
+                    {
+                        "name": "Coaxial",
+                        "friendlyNames": ["COAXIAL CABLE", "co-axial"]
+                    },
+                    {
+                        "name": "FM",
+                        "friendlyNames": ["FM Radio", "Radio"]
+                    },
+                    {
+                        "name": "AUX2",
+                        "friendlyNames": ["Line In 2", "Auxiliary port 2", "Auxiliary 2"]
+                    },
+                    {
+                        "name": "XLR",
+                        "friendlyNames": ["Cannon X Series, Latch, Rubber", "Cannon port"]
+                    },
+                    {
+                        "name": "USB",
+                        "friendlyNames": ["Trans-flash Card", "Micro SD Card", "SD Card"]
+                    },
+                    {
+                        "name": "HDMI", 
+                        "friendlyNames": ["High Definition Multimedia Interface port", "HDMI port"]
+                    }
+                ]
+            }
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "Notifications",
+            "version": "1.0"
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "PlaybackController",
+            "version": "1.0"
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "Settings",
+            "version": "1.0"
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "Speaker",
+            "version": "1.0"
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "SpeechRecognizer",
+            "version": "2.0"
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "SpeechSynthesizer",
+            "version": "1.0"
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "System",
+            "version": "1.1"
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "TemplateRuntime",
+            "version": "1.0"
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "VisualActivityTracker",
+            "version": "1.0"
+        }
+    ]
+}
