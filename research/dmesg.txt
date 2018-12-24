@@ -773,361 +773,361 @@
 [   16.625398] pad from tdmin_a, tdmin_b, tdmin_c needs clks
 [  116.933225] random: crng init done
 [  548.308093] CFG80211-ERROR) wl_cfg80211_get_station : NOT assoc
-[  548.524522] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[  548.524522] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[  548.560718] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[  548.561250] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[  548.560718] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[  548.561250] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [  548.596238] Error getting the SSID
-[  548.608862] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[  548.608862] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [  549.018899] nf_conntrack: default automatic helper assignment has been turned off for security reasons and CT-based  firewall rule not found. Use the iptables CT target to attach helpers instead.
 [  567.333529] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[  567.336600] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[  567.336600] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [  567.340005] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[  567.346921] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
+[  567.346921] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
 [  602.217371] CFG80211-ERROR) wl_cfg80211_get_station : NOT assoc
-[  602.490532] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[  602.490532] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[  602.526405] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[  602.526770] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[  602.526405] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[  602.526770] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [  602.552395] Error getting the SSID
-[  602.573566] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[  602.573566] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [  621.320223] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[  621.323239] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[  621.323239] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [  621.326703] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[  621.333855] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
+[  621.333855] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
 [  775.482553] CFG80211-ERROR) wl_cfg80211_get_station : NOT assoc
-[  775.926057] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[  775.926057] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[  775.959854] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[  775.960195] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[  775.959854] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[  775.960195] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [  775.986487] Error getting the SSID
-[  776.039976] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[  776.039976] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [  794.748325] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[  794.753280] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[  794.753280] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [  794.754736] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[  794.762620] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
+[  794.762620] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
 [  817.117932] CFG80211-ERROR) wl_cfg80211_get_station : NOT assoc
-[  817.543603] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[  817.543603] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[  817.579043] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[  817.579359] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[  817.579043] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[  817.579359] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [  817.604240] Error getting the SSID
-[  817.613951] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[  817.613951] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [  836.365212] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[  836.368614] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[  836.368614] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [  836.371725] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[  836.378582] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
-[  897.212072] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[  836.378582] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
+[  897.212072] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[  897.254337] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[  897.254653] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
-[  897.284215] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[  897.254337] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[  897.254653] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
+[  897.284215] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [  897.289697] Error getting the SSID
 [  917.140532] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[  917.151800] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[  917.151800] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [  917.152292] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[  917.159286] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
+[  917.159286] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
 [ 1757.571761] CFG80211-ERROR) wl_cfg80211_get_station : NOT assoc
-[ 1757.896188] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 1757.896188] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 1757.935294] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 1757.935606] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
-[ 1757.955821] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 1757.935294] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 1757.935606] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
+[ 1757.955821] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 1757.965680] Error getting the SSID
 [ 1776.726358] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 1776.729373] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 1776.729373] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 1776.733032] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 1776.739683] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
+[ 1776.739683] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
 [ 1863.706678] CFG80211-ERROR) wl_cfg80211_get_station : NOT assoc
-[ 1864.555432] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 1864.555432] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 1864.592747] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 1864.593076] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 1864.592747] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 1864.593076] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 1864.620684] Error getting the SSID
-[ 1864.655344] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 1864.655344] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 1883.374057] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 1883.376185] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 1883.376185] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 1883.380511] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 1883.387572] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
-[ 2442.532149] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 1883.387572] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
+[ 2442.532149] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 2442.576282] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 2442.576594] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
-[ 2442.602615] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 2442.576282] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 2442.576594] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
+[ 2442.602615] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 2442.607005] Error getting the SSID
 [ 2462.609777] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 2462.613523] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 2462.613523] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 2462.616278] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 2462.623096] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
-[ 2533.939983] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 2462.623096] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
+[ 2533.939983] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 2533.974170] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 2533.974483] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 2533.974170] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 2533.974483] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 2533.999943] Error getting the SSID
-[ 2534.044344] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 2534.044344] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 2553.866905] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 2553.869967] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 2553.869967] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 2553.873312] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 2553.880227] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
-[ 3299.315318] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 2553.880227] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
+[ 3299.315318] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 3299.356210] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 3299.356551] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
-[ 3299.386561] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 3299.356210] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 3299.356551] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
+[ 3299.386561] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 3299.393847] Error getting the SSID
 [ 3322.248913] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 3322.255429] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 3322.255429] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 3322.255965] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 3322.262949] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
-[ 3353.476324] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 3322.262949] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
+[ 3353.476324] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 3353.511884] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 3353.512196] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 3353.511884] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 3353.512196] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 3353.536605] Error getting the SSID
-[ 3353.552385] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 3353.552385] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 3373.407338] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 3373.410610] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 3373.410610] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 3373.414133] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 3373.420685] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
+[ 3373.420685] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
 [ 3394.756928] CFG80211-ERROR) wl_cfg80211_get_station : NOT assoc
-[ 3395.153574] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 3395.153574] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 3395.197492] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 3395.197806] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
-[ 3395.241542] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 3395.197492] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 3395.197806] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
+[ 3395.241542] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 3395.247731] Error getting the SSID
 [ 3413.954318] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 3413.958079] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 3413.958079] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 3413.960730] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 3413.967638] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
+[ 3413.967638] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
 [ 3428.973125] CFG80211-ERROR) wl_cfg80211_get_station : NOT assoc
-[ 3429.709463] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 3429.709463] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 3429.787303] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 3429.787620] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 3429.787303] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 3429.787620] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 3429.835681] Error getting the SSID
-[ 3429.841306] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 3429.841306] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 3458.031619] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 3458.035120] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 3458.035120] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 3458.038046] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 3458.044984] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
+[ 3458.044984] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
 [ 3591.991604] CFG80211-ERROR) wl_cfg80211_get_station : NOT assoc
-[ 3592.548367] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 3592.548367] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 3592.622208] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 3592.622525] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 3592.622208] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 3592.622525] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 3592.655318] Error getting the SSID
-[ 3592.657717] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 3592.657717] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 3611.367812] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 3611.370879] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 3611.370879] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 3611.374222] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 3611.381180] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
-[ 3736.402856] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 3611.381180] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
+[ 3736.402856] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 3736.445567] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 3736.445877] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 3736.445567] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 3736.445877] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 3736.471693] Error getting the SSID
-[ 3736.529349] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 3736.529349] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 3755.214279] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 3755.216382] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 3755.216382] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 3755.220830] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 3755.227680] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
+[ 3755.227680] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
 [ 3801.128692] CFG80211-ERROR) wl_cfg80211_get_station : NOT assoc
-[ 3802.179814] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 3802.179814] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 3802.233214] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 3802.233698] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 3802.233214] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 3802.233698] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 3802.258677] Error getting the SSID
-[ 3802.270179] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 3802.270179] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 3821.008998] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 3821.015244] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 3821.015244] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 3821.015733] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 3821.022729] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
+[ 3821.022729] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
 [ 3919.558815] CFG80211-ERROR) wl_cfg80211_get_station : NOT assoc
-[ 3920.079014] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 3920.079014] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 3920.119532] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 3920.119843] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
-[ 3920.132222] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 3920.119532] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 3920.119843] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
+[ 3920.132222] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 3920.144745] Error getting the SSID
 [ 3938.904473] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 3938.906597] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 3938.906597] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 3938.910931] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 3938.918690] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
-[ 4202.635997] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 3938.918690] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
+[ 4202.635997] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 4202.682985] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 4202.683306] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 4202.682985] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 4202.683306] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 4202.722180] Error getting the SSID
-[ 4202.756522] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 4202.756522] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 4221.466707] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 4221.472729] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 4221.472729] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 4221.473218] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 4221.480224] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
-[ 5439.506487] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 4221.480224] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
+[ 5439.506487] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 5439.541873] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 5439.542188] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
-[ 5439.552571] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 5439.541873] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 5439.542188] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
+[ 5439.552571] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 5439.574135] Error getting the SSID
 [ 5459.438715] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 5459.442366] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 5459.442366] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 5459.445134] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 5459.452167] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
-[ 5586.297267] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 5459.452167] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
+[ 5586.297267] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 5586.409884] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 5586.410213] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 5586.409884] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 5586.410213] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 5586.444378] Error getting the SSID
-[ 5586.490164] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 5586.490164] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 5607.633106] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 5607.637089] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 5607.637089] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 5607.639582] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 5607.646428] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
-[ 5848.235229] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 5607.646428] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
+[ 5848.235229] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 5848.274129] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 5848.274444] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 5848.274129] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 5848.274444] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 5848.301324] Error getting the SSID
-[ 5848.327629] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 5848.327629] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 5868.163167] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 5868.169089] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 5868.169089] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 5868.169590] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 5868.176582] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
+[ 5868.176582] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
 [ 5898.984375] CFG80211-ERROR) wl_cfg80211_get_station : NOT assoc
-[ 5899.676108] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 5899.676108] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 5899.781397] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 5899.781705] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 5899.781397] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 5899.781705] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 5899.807850] Error getting the SSID
-[ 5899.834290] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 5899.834290] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 5918.499162] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 5918.501273] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 5918.501273] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 5918.505568] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 5918.512542] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
+[ 5918.512542] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
 [ 6024.755986] CFG80211-ERROR) wl_cfg80211_get_station : NOT assoc
-[ 6025.437762] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 6025.437762] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 6025.490952] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 6025.491256] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 6025.490952] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 6025.491256] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 6025.518419] Error getting the SSID
-[ 6025.582186] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 6025.582186] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 6044.264439] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 6044.267528] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 6044.267528] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 6044.270859] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 6044.277833] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
+[ 6044.277833] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
 [ 6267.431221] CFG80211-ERROR) wl_cfg80211_get_station : NOT assoc
-[ 6268.106963] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 6268.106963] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 6268.145527] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 6268.145849] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
-[ 6268.167308] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 6268.145527] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 6268.145849] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
+[ 6268.167308] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 6268.177314] Error getting the SSID
 [ 6286.928718] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 6286.931202] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 6286.931202] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 6286.935161] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 6286.942043] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
+[ 6286.942043] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
 [ 6391.079977] CFG80211-ERROR) wl_cfg80211_get_station : NOT assoc
-[ 6391.800332] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 6391.800332] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 6391.865785] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 6391.866097] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 6391.865785] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 6391.866097] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 6391.891763] Error getting the SSID
-[ 6391.969285] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 6391.969285] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 6410.613151] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 6410.616214] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 6410.616214] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 6410.619547] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 6410.627565] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
+[ 6410.627565] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
 [ 6509.910862] CFG80211-ERROR) wl_cfg80211_get_station : NOT assoc
-[ 6510.498987] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 6510.498987] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 6510.536062] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 6510.536379] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
-[ 6510.549025] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 6510.536062] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 6510.536379] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
+[ 6510.549025] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 6510.562371] Error getting the SSID
 [ 6529.323718] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 6529.326793] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 6529.326793] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 6529.330115] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 6529.337041] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
+[ 6529.337041] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
 [ 6615.865285] CFG80211-ERROR) wl_cfg80211_get_station : NOT assoc
-[ 6615.918349] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 6615.918349] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 6615.961189] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 6615.961519] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 6615.961189] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 6615.961519] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 6615.995091] Error getting the SSID
-[ 6616.020867] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 6616.020867] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 6634.754278] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 6634.757450] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 6634.757450] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 6634.760682] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 6634.767602] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
-[ 6855.928369] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 6634.767602] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
+[ 6855.928369] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 6855.989878] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 6855.990200] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 6855.989878] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 6855.990200] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 6856.015652] Error getting the SSID
-[ 6856.047426] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 6856.047426] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 6874.752542] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 6874.754618] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 6874.754618] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 6874.758957] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 6874.765896] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
-[ 7136.544268] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 6874.765896] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
+[ 7136.544268] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 7136.594241] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 7136.594574] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
-[ 7136.623347] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 7136.594241] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 7136.594574] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
+[ 7136.623347] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 7136.627086] Error getting the SSID
 [ 7156.481845] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 7156.484347] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 7156.484347] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 7156.488374] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 7156.495205] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
-[ 7480.386785] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 7156.495205] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
+[ 7480.386785] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 7480.419774] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 7480.420090] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 7480.419774] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 7480.420090] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 7480.448560] Error getting the SSID
-[ 7480.482624] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 7480.482624] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 7500.313060] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 7500.316529] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 7500.316529] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 7500.319463] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 7500.326383] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
-[ 7627.601172] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 7500.326383] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
+[ 7627.601172] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 7627.637816] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 7627.638166] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 7627.637816] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 7627.638166] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 7627.664335] Error getting the SSID
-[ 7627.734149] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 7627.734149] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 7646.523186] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 7646.526221] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 7646.526221] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 7646.529810] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 7646.536675] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
+[ 7646.536675] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
 [ 7646.550181] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_DEAUTH
 [ 7646.553458] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_DEAUTH
-[ 8028.928826] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 8028.928826] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 8028.965167] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 8028.965489] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 8028.965167] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 8028.965489] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 8028.994352] Error getting the SSID
-[ 8029.039663] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 8029.039663] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 8047.749429] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 8047.756071] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 8047.756071] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 8047.756579] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 8047.763606] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
-[ 8139.825601] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 8047.763606] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
+[ 8139.825601] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 8139.861719] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 8139.862034] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 8139.861719] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 8139.862034] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 8139.887562] Error getting the SSID
-[ 8139.939251] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 8139.939251] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 8160.217725] CFG80211-ERROR) wl_cfg80211_disconnect : Reason 3
-[ 8160.219840] wl_iw_event: Link Down with BSSID=bc:ae:c5:e7:80:c9
+[ 8160.219840] wl_iw_event: Link Down with BSSID=XX:XX:XX:XX:XX:XX
 [ 8160.224147] CFG80211-ERROR) wl_is_linkdown : Link down Reason : WLC_E_LINK
-[ 8160.231047] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from bc:ae:c5:e7:80:c9
-[ 8340.077085] Connecting with bc:ae:c5:e7:80:c9 ssid "bighole", len (7) channel=3
+[ 8160.231047] link down if wlan0 may call cfg80211_disconnected. event : 16, reason=2 from XX:XX:XX:XX:XX:XX
+[ 8340.077085] Connecting with XX:XX:XX:XX:XX:XX ssid "ssid", len (7) channel=3
 
-[ 8340.132806] wl_iw_event: Link UP with BSSID=bc:ae:c5:e7:80:c9
-[ 8340.133140] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 8340.132806] wl_iw_event: Link UP with BSSID=XX:XX:XX:XX:XX:XX
+[ 8340.133140] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 8340.156786] Error getting the SSID
-[ 8340.234027] wl_bss_connect_done succeeded with bc:ae:c5:e7:80:c9
+[ 8340.234027] wl_bss_connect_done succeeded with XX:XX:XX:XX:XX:XX
 [ 8346.787113] asoc-aml-card auge_sound: tdm capture stop
 [ 8500.161336] aml_pdm_open, stream:1
 [ 8500.161563] enter aml_pdm_close type: 1
