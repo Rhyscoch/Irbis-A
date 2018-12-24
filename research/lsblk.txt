@@ -1,0 +1,7 @@
+NAME      MAJ:MIN RM SIZE RO TYPE MOUNTPOINT
+mtdblock0  31:0    0   2M  0 disk 
+mtdblock1  31:1    0   2M  0 disk 
+mtdblock2  31:2    0  10M  0 disk 
+mtdblock3  31:3    0  50M  0 disk 
+mtdblock4  31:4    0   1M  0 disk 
+mtdblock5  31:5    0  57M  0 disk 

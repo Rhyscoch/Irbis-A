@@ -1,0 +1,116 @@
+PID   USER     COMMAND
+    1 root     init
+    2 root     [kthreadd]
+    3 root     [ksoftirqd/0]
+    5 root     [kworker/0:0H]
+    7 root     [rcu_preempt]
+    8 root     [rcu_sched]
+    9 root     [rcu_bh]
+   10 root     [migration/0]
+   11 root     [lru-add-drain]
+   12 root     [cpuhp/0]
+   13 root     [cpuhp/1]
+   14 root     [migration/1]
+   15 root     [ksoftirqd/1]
+   17 root     [kworker/1:0H]
+   18 root     [cpuhp/2]
+   19 root     [migration/2]
+   20 root     [ksoftirqd/2]
+   21 root     [kworker/2:0]
+   22 root     [kworker/2:0H]
+   23 root     [cpuhp/3]
+   24 root     [migration/3]
+   25 root     [ksoftirqd/3]
+   27 root     [kworker/3:0H]
+   28 root     [kdevtmpfs]
+  495 root     [oom_reaper]
+  496 root     [writeback]
+  498 root     [kcompactd0]
+  499 root     [crypto]
+  500 root     [bioset]
+  502 root     [kblockd]
+  526 root     [md]
+  532 root     [devfreq_wq]
+  544 root     [cfg80211]
+  548 root     [watchdogd]
+  634 root     [kworker/3:1]
+  635 root     [rpciod]
+  636 root     [xprtiod]
+  660 root     [kswapd0]
+  661 root     [vmstat]
+  725 root     [nfsiod]
+  841 root     [bioset]
+  844 root     [bioset]
+  847 root     [bioset]
+  850 root     [bioset]
+  853 root     [bioset]
+  856 root     [bioset]
+  859 root     [bioset]
+  862 root     [bioset]
+  867 root     [bioset]
+  926 root     [dm_bufio_cache]
+  927 root     [cfinteractive]
+  985 root     [null]
+  986 root     [cpu_hogplug_thr]
+  987 root     [irq/32-meson-am]
+  992 root     [bioset]
+  996 root     [bioset]
+ 1002 root     [bioset]
+ 1007 root     [bioset]
+ 1012 root     [bioset]
+ 1017 root     [bioset]
+ 1086 root     [ipv6_addrconf]
+ 1094 root     [krfcommd]
+ 1121 root     [dwc_otg]
+ 1181 root     [ubi_bgt0d]
+ 1184 root     [ubifs_bgt0_0]
+ 1212 root     /sbin/syslogd -n
+ 1222 root     [ubi_bgt1d]
+ 1225 root     [ubifs_bgt1_0]
+ 1235 root     rootApp
+ 1281 root     /usr/sbin/inetd -f
+ 1344 root     [wl_escan_handle]
+ 1345 root     [dhd_watchdog_th]
+ 1346 root     [dhd_dpc]
+ 1347 root     [dhd_rxf]
+ 1353 root     [wl_event_handle]
+ 1360 root     /usr/sbin/wpa_supplicant -Dnl80211 -iwlan0 -c/vendor/wpa_supplicant.conf
+ 1376 root     mv_ioguard
+ 1442 root     /usr/sbin/sshd
+ 1449 nobody   /usr/sbin/dnsmasq
+ 1491 root     /system/vendor/quasar/quasar_launcher /system/vendor/quasar/launch.json
+ 1496 root     /system/vendor/quasar/audiod
+ 1497 root     /system/vendor/quasar/sound_initd
+ 1498 root     /system/vendor/quasar/updatesd
+ 1501 root     /system/vendor/quasar/authd
+ 1503 root     /system/vendor/quasar/firstrund
+ 1504 root     /system/vendor/quasar/pushd
+ 1505 root     /system/vendor/quasar/wifid
+ 1508 root     /system/vendor/quasar/playbackd
+ 1509 root     /system/vendor/quasar/ledd
+ 1513 root     /system/vendor/quasar/metricad
+ 1517 root     /system/vendor/quasar/buttonsd
+ 1615 root     {ntp_sync.sh} /bin/sh /system/vendor/quasar/ntp_sync.sh
+ 1631 root     /sbin/getty 38400 tty1
+ 1632 root     /sbin/getty 38400 tty2
+ 1635 root     /usr/bin/tail -f /var/log/messages
+ 1638 root     -/bin/sh
+ 1639 root     /sbin/syslogd -n
+ 1870 root     [kworker/1:2]
+ 6988 root     dhcpcd wlan0 -t0
+11264 root     [kworker/u8:1]
+19084 root     [kworker/2:1]
+21096 root     [kworker/0:2]
+21512 root     [kworker/1:1]
+21569 root     sshd: root@notty
+21574 root     sh -c scp -v -r -f /var/log/
+21575 root     scp -v -r -f /var/log/
+21719 root     [kworker/3:0]
+23465 root     [kworker/0:1]
+23698 root     [kworker/u8:2]
+26128 root     sleep 15
+26232 root     sshd: root@notty
+26236 root     [telnetd]
+26237 root     [sh]
+26238 root     sh -c ps aux
+26239 root     ps aux

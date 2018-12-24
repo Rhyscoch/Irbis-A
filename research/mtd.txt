@@ -1,0 +1,7 @@
+dev:    size   erasesize  name
+mtd0: 00200000 00020000 "bootloader"
+mtd1: 00200000 00020000 "tpl"
+mtd2: 00a00000 00020000 "boot"
+mtd3: 03200000 00020000 "system"
+mtd4: 00100000 00020000 "nv"
+mtd5: 03900000 00020000 "bkupgrade"
