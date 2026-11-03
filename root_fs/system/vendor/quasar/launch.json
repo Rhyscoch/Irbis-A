@@ -7,67 +7,100 @@
                 {
                     "name": "audiod",
                     "delay" : 5,
-                    "allowedRestartIntervalSeconds" : 600,
                     "root": ".",
-                    "path": "/system/vendor/quasar/maind",
+                    "path": "/system/vendor/quasar/audiod",
                     "ldLibraryPrefix": "/system/vendor/quasar/override_libs",
                     "arg": [
-                        "--audiod"
+                    ],
+                    "log": false
+                },
+                {
+                    "name": "sound_initd",
+                    "delay": 5,
+                    "root": ".",
+                    "path": "/system/vendor/quasar/sound_initd",
+                    "arg": [
                     ],
                     "log": false
                 },
                 {
                     "name": "updatesd",
                     "delay" : 5,
-                    "allowedRestartIntervalSeconds" : 600,
                     "root": ".",
-                    "path": "/system/vendor/quasar/maind",
+                    "path": "/system/vendor/quasar/updatesd",
                     "arg": [
-                        "--updatesd"
                     ],
                     "log": false
                 },
                 {
-                    "name": "yiod",
+                    "name": "authd",
                     "delay" : 5,
-                    "allowedRestartIntervalSeconds" : 600,
                     "root": ".",
-                    "path": "/system/vendor/quasar/maind",
+                    "path": "/system/vendor/quasar/authd",
                     "arg": [
-                        "--yiod"
+                    ],
+                    "log": false
+                },
+                {
+                    "name": "firstrund",
+                    "delay" : 5,
+                    "root": ".",
+                    "path": "/system/vendor/quasar/firstrund",
+                    "arg": [
+                    ],
+                    "log": false
+                },
+                {
+                    "name": "pushd",
+                    "delay" : 5,
+                    "root": ".",
+                    "path": "/system/vendor/quasar/pushd",
+                    "arg": [
                     ],
                     "log": false
                 },
                 {
                     "name": "wifid",
                     "delay" : 5,
-                    "allowedRestartIntervalSeconds" : 600,
                     "root": ".",
-                    "path": "/system/vendor/quasar/maind",
+                    "path": "/system/vendor/quasar/wifid",
                     "arg": [
-                        "--wifid"
                     ],
                     "log": false
                 },
                 {
-                    "name": "mediad",
+                    "name": "soundd",
                     "delay" : 5,
-                    "allowedRestartIntervalSeconds" : 600,
                     "root": ".",
-                    "path": "/system/vendor/quasar/maind",
+                    "path": "/system/vendor/quasar/playbackd",
                     "arg": [
-                        "--mediad"
                     ],
                     "log": false
                 },
                 {
-                    "name": "maind",
+                    "name": "ledd",
                     "delay" : 5,
-                    "allowedRestartIntervalSeconds" : 600,
                     "root": ".",
-                    "path": "/system/vendor/quasar/maind",
+                    "path": "/system/vendor/quasar/ledd",
                     "arg": [
-                        "--linkplay_a98"
+                    ],
+                    "log": false
+                },
+                {
+                    "name": "metricad",
+                    "delay" : 5,
+                    "root": ".",
+                    "path": "/system/vendor/quasar/metricad",
+                    "arg": [
+                    ],
+                    "log": false
+                },
+                {
+                    "name": "buttonsd",
+                    "delay" : 5,
+                    "root": ".",
+                    "path": "/system/vendor/quasar/buttonsd",
+                    "arg": [
                     ],
                     "log": false
                 }
