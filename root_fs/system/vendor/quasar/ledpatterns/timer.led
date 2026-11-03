@@ -1,0 +1,164 @@
+loop
+gammacorrection
+
+gradient 0 000000 1 000000 180
+
+smooth 0
+
+gradient 0 00ff45 1 00ff45 131
+
+smooth 0
+
+gradient 0 009a45 1 009a45 132
+
+smooth 0
+
+gradient 0 00ff45 1 00ff45 131
+
+smooth 0
+
+gradient 0 009a45 1 009a45 132
+
+smooth 0
+
+gradient 0 00ff45 1 00ff45 131
+
+smooth 0
+
+gradient 0 009a45 1 009a45 132
+
+smooth 10
+
+gradient 0 00ff45 1 00ff45 131
+
+smooth 0
+
+gradient 0 000000 1 000000 480
+
+smooth 0
+
+gradient 0 000000 1 000000 925
+
+
+
+
+
+
+
+
+gradient 0 000000 1 000000 132
+
+smooth 0
+
+gradient 0 00ff45 1 00ff45 131
+
+smooth 0
+
+gradient 0 009a45 1 009a45 132
+
+smooth 0
+
+gradient 0 00ff45 1 00ff45 131
+
+smooth 0
+
+gradient 0 009a45 1 009a45 132
+
+smooth 0
+
+gradient 0 00ff45 1 00ff45 131
+
+smooth 0
+
+gradient 0 009a45 1 009a45 132
+
+smooth 0
+
+gradient 0 000000 1 000000 480
+
+smooth 0
+
+gradient 0 000000 1 000000 836
+
+
+
+# ————————
+
+
+
+
+gradient 0 00ff45 1 00ff45 131
+
+smooth 0
+
+gradient 0 009a45 1 009a45 132
+
+smooth 0
+
+gradient 0 00ff45 1 00ff45 131
+
+smooth 0
+
+gradient 0 009a45 1 009a45 132
+
+smooth 0
+
+gradient 0 00ff45 1 00ff45 131
+
+smooth 0
+
+gradient 0 009a45 1 009a45 132
+
+smooth 10
+
+gradient 0 00ff45 1 00ff45 131
+
+smooth 0
+
+gradient 0 000000 1 000000 480
+
+smooth 0
+
+gradient 0 000000 1 000000 969
+
+
+
+
+
+
+
+gradient 0 000000 1 000000 132
+
+smooth 0
+
+gradient 0 00ff45 1 00ff45 131
+
+smooth 0
+
+gradient 0 009a45 1 009a45 132
+
+smooth 0
+
+gradient 0 00ff45 1 00ff45 131
+
+smooth 0
+
+gradient 0 009a45 1 009a45 132
+
+smooth 0
+
+gradient 0 00ff45 1 00ff45 131
+
+smooth 0
+
+gradient 0 009a45 1 009a45 132
+
+
+smooth 0
+
+gradient 0 000000 1 000000 480
+
+smooth 0
+
+gradient 0 000000 1 000000 698
+

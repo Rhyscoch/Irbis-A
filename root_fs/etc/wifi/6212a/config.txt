@@ -1,4 +1,6 @@
 bcn_timeout=20
 kso_enable=0
 ccode=RU
-regrev=0
+regrev=13
+
+pktprio8021x=6

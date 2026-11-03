@@ -23,6 +23,41 @@
             "interface": "AudioPlayer",
             "version": "1.0"
         },
+	{
+	    "type": "AlexaInterface",
+	    "interface": "Alexa.DoNotDisturb",
+	    "version": "1.0"
+	},
+        {
+            "type": "AlexaInterface",
+            "interface": "ExternalMediaPlayer",
+            "version": "1.0"
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "Alexa.PlaybackStateReporter",
+            "version": "1.0"
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "Alexa.PlaybackController",
+            "version": "1.0"
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "Alexa.PlaylistController",
+            "version": "1.0"
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "Alexa.SeekController",
+            "version": "1.0"
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "Alexa.FavoritesController",
+            "version": "1.0"
+        },
         {
             "type": "AlexaInterface",
             "interface": "Bluetooth",
@@ -36,19 +71,19 @@
                 "inputs": [  
                     {
                         "name": "WiFi",
-                        "friendlyNames": ["WIFI", "WIreless-FIdelity"]
+                        "friendlyNames": ["wi fi", "Wi-Fi", "WIFI", "WIreless-FIdelity"]
                     },
                     {
                         "name": "UDisk",
-                        "friendlyNames": ["WiFi Udisk", "U Disk"]
+                        "friendlyNames": ["you disk", "WiFi Udisk", "U Disk"]
                     },
                     {
                         "name": "AUX",
-                        "friendlyNames": ["Line In", "Auxiliary port", "Auxiliary"]
+                        "friendlyNames": ["line in", "auxiliary port", "auxiliary", "a. u. x."]
                     },
                     {
                         "name": "Bluetooth",
-                        "friendlyNames": ["Bluetooth", "BT"]
+                        "friendlyNames": ["Bluetooth", "BT", "b. t."]
                     },
                     {
                         "name": "Mirror",
@@ -56,35 +91,35 @@
                     },
                     {
                         "name": "Optical",
-                        "friendlyNames": ["Optical", "Optical"]
+                        "friendlyNames": ["Optical", "optical"]
                     },
                     {
                         "name": "RCA", 
-                        "friendlyNames": ["Radio Corporation of American", "AV Input"]
+                        "friendlyNames": ["rca", "radio corporation of american", "a v. input"]
                     },
                     {
                         "name": "Coaxial",
-                        "friendlyNames": ["COAXIAL CABLE", "co-axial"]
+                        "friendlyNames": ["coaxial cable", "coaxial"]
                     },
                     {
                         "name": "FM",
-                        "friendlyNames": ["FM Radio", "Radio"]
+                        "friendlyNames": ["radio", "f. m.", "f. m. radio", "FM Radio"]
                     },
                     {
                         "name": "AUX2",
-                        "friendlyNames": ["Line In 2", "Auxiliary port 2", "Auxiliary 2"]
+                        "friendlyNames": ["auxiliary port two", "auxiliary two", "a u. x. two", "line in two"]
                     },
                     {
                         "name": "XLR",
-                        "friendlyNames": ["Cannon X Series, Latch, Rubber", "Cannon port"]
+                        "friendlyNames": ["xlr", "cannon port", "cannon x. series, latch, rubber"]
                     },
                     {
                         "name": "USB",
-                        "friendlyNames": ["Trans-flash Card", "Micro SD Card", "SD Card"]
+                        "friendlyNames": ["u. s. b.", "micro s. d. card", "s. d. Card", "trans flash card"]
                     },
                     {
                         "name": "HDMI", 
-                        "friendlyNames": ["High Definition Multimedia Interface port", "HDMI port"]
+                        "friendlyNames": ["h. d. m. i. port", "high definition multimedia interface port", "HDMI port", "h. d. m. i."]
                     }
                 ]
             }
@@ -127,6 +162,11 @@
         {
             "type": "AlexaInterface",
             "interface": "TemplateRuntime",
+            "version": "1.0"
+        },
+        {
+            "type": "AlexaInterface",
+            "interface": "InteractionModel",
             "version": "1.0"
         },
         {

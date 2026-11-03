@@ -53,3 +53,4 @@ muxenab=0x10
 # CLDO PWM voltage settings - 0x4 - 1.1 volt
 #cldo_pwm=0x4
 glitch_based_crsmin=1
+

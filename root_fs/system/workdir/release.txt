@@ -1,40 +1,40 @@
   <default remote="wiimu" revision="A98"/>
 firmware/applications
 ================================================================
-commit b4fc1beaef8cef4647262a94fa05d02d535e14e1
-Author: vincent.zhu <vincent.zhu@wiimu.com>
-Date:   Tue Oct 30 10:04:44 2018 +0800
+commit 46d5381cf98f4ba000c40d6d0d1986d02d2cb2f9
+Author: Huaijing Wang <huaijing.wang@wiimu.com>
+Date:   Mon Jun 3 14:56:15 2019 +0800
 
-    [other] yandex update the resource
+    [other] update bsa_server for fixed av message callback bug
     
-    Change-Id: I36b18f0851eb8442ce85159fe828f02dddcec1fb
+    Change-Id: Icd57aca2fc6b6fabeb3908e3e449dc44912996cd
 firmware/prebuilt
 ================================================================
-commit 22bfd06167d876de8019702837d7ced1be5ec8de
-Author: vincent.zhu <vincent.zhu@wiimu.com>
-Date:   Tue Oct 9 11:01:03 2018 +0800
+commit 20965a5b9aeaae9d29bd7aa4dc94430a47a8151b
+Author: Deyuan Guo <deyuan.guo@linkplay.com>
+Date:   Thu Apr 25 18:38:28 2019 +0800
 
-    [other] add seperate img tar release
+    [other] security: modify firmwate signature for A98
     
-    Change-Id: I75e9a285cefb8d0adafd4c2cd0d021af3dc67d85
+    Change-Id: Ibab9d54ad0d718d141298c10c612003e7bb95bab
 firmware/device_ids
 ================================================================
-commit e7bb17dbb1f15fbd4367bd1a7c65c9af3ef2ece3
+commit 714c6b0ab608ea7e07ee2865a09b453a863a3ab4
 Author: fawei.wu <fawei.wu@linkplay.com>
-Date:   Mon Oct 22 15:49:14 2018 +0800
+Date:   Wed May 29 16:43:35 2019 +0800
 
-    [other] add device ids for  MD43917\MD44300\A16\MS30A\T2328A\KLIPAD_788
+    [other] add device ids for M200MKIII
     
-    Change-Id: I41f1716b33feabedbd0dc38111f17fdfd72d41db
+    Change-Id: I0bdebd85b0e3ee9349fff012d8d1560d7ad2776e
 firmware/middleware
 ================================================================
-commit 6aeda4da02fc33da9fe8584f46c399544507fa2f
-Author: vincent.zhu <vincent.zhu@wiimu.com>
-Date:   Tue Oct 30 09:56:23 2018 +0800
+commit 9f135c7ad85d04d8b7707cd4588e32cdb1da6fe6
+Author: Huaijing Wang <huaijing.wang@wiimu.com>
+Date:   Mon Jun 3 15:00:25 2019 +0800
 
-    [other] update the release of soft preprocess library
+    [other] fixed av_source volume change notify
     
-    Change-Id: I8cf2eb046d9f8145f05a254e73b53360de4ad9e3
+    Change-Id: Icdff2d349bff0b54a2672fb956a6f85f6ead28b1
 firmware/platform-amlogic-a111
 ================================================================
 commit b3ee067469e43136267904927c1e0372bc95df8a
@@ -46,10 +46,10 @@ Date:   Thu Aug 2 20:21:29 2018 +0800
     Change-Id: Icf6b438b41fcd4f92c25ae02476721a2061a787c
 firmware/platform-amlogic-a113
 ================================================================
-commit a0ba4ab65c64dae87e0677714c6e7dcb74aff003
+commit 38087111e1dedb752d36a2db7cc321fdaa2d6abb
 Author: shenfei.wu <shenfei.wu@linkplay.com>
-Date:   Sun Oct 28 20:22:23 2018 -0700
+Date:   Wed May 22 05:27:38 2019 -0700
 
-    [YANDEX] modify gpio_keypad  driver.
+    [other] fix compile error.
     
-    Change-Id: Iaa1e6b4e4e1a6f7c2873cfec4c68f662b6c57046
+    Change-Id: I16bb7a8dc472c212348671314233245275515bec

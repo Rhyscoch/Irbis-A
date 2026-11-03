@@ -44,7 +44,7 @@ null::respawn:/usr/sbin/telnetd -l /bin/sh
 ::ctrlaltdel:/sbin/reboot
 
 # Stuff to do before rebooting
-null::shutdown:/system/workdir/bin/closedac
+null::shutdown:/system/workdir/bin/localSendSocket 0 CLOSEDAC
 #null::shutdown:/usr/bin/killall klogd
 null::shutdown:/usr/bin/killall syslogd
 null::shutdown:/etc/init.d/rcK

@@ -1,0 +1,36 @@
+</tmp/alsa/dmixer.conf>
+
+defaults.pcm.rate_converter "samplerate"
+
+pcm.mv_audio {
+	type hw
+	card 0
+	device 0
+}
+
+pcm_slave.mv_rate {
+	pcm mv_audio
+	rate 44100
+}
+
+pcm.rate_convert {
+	type rate
+	slave mv_rate
+}
+
+pcm.asymed { 
+	type asym 
+	playback.pcm "dmixer" 
+	capture.pcm "hw:0,0" 
+} 
+
+pcm.!default {
+        type plug
+        slave.pcm "asymed"
+} 
+
+ctl.dmixer {
+	type hw
+	card 0
+}
+

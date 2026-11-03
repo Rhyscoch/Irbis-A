@@ -6,9 +6,9 @@ ROOT=$PWD
 
 export LANG=UTF-8
 export CHARSET=UTF-8
-export LD_LIBRARY_PATH=/tmp/lib:$ROOT/lib:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=$ROOT/lib:$LD_LIBRARY_PATH
 
-PATH=$PATH:/tmp/bin:$ROOT/bin
+PATH=$PATH:$ROOT/bin
 export PATH
 export WORKDIR=$ROOT
 
